@@ -9,15 +9,19 @@ export const CardDetailsModal = ({ card, onClose }) => {
 
     if (!card) return null;
 
-    // Helper to extract clean content
+    // Helper to extract clean content based on language
     const getContent = (c) => {
         const clean = (str) => str ? str.replace('} ', '') : '';
+        const isEn = language === 'en';
         return {
-            name: language === 'th' ? c.name_th : c.name_en,
-            subtitle: language === 'th' ? c.name_en : c.name_th,
-            keywords: clean(c.keywords),
-            essence: clean(c.dharma_essence),
-            tagline: c.tagline
+            name: isEn ? c.name_en : c.name_th,
+            subtitle: isEn ? c.name_th : c.name_en,
+            keywords: clean(isEn ? (c.keywords_en || c.keywords) : c.keywords),
+            essence: clean(isEn ? (c.dharma_essence_en || c.dharma_essence) : c.dharma_essence),
+            tagline: isEn ? (c.tagline_en || c.tagline) : c.tagline,
+            mainDesc: clean(isEn ? (c.main_image_desc_en || c.main_image_desc) : c.main_image_desc),
+            secondaryDesc: clean(isEn ? (c.secondary_image_desc_en || c.secondary_image_desc) : c.secondary_image_desc),
+            prompt: isEn ? (c.prompt_en || c.prompt) : c.prompt
         };
     };
 
@@ -96,10 +100,10 @@ export const CardDetailsModal = ({ card, onClose }) => {
                             </div>
                         )}
 
-                        {card.prompt && (
+                        {content.prompt && (
                             <div>
                                 <span className="text-gold-600 uppercase tracking-widest text-sm block mb-1">Reflection</span>
-                                <p className="italic text-white/70">"{card.prompt}"</p>
+                                <p className="italic text-white/70">"{content.prompt}"</p>
                             </div>
                         )}
 

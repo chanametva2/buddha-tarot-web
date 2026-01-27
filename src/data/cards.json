@@ -14,7 +14,13 @@
     "reversed": [],
     "prompt": "คุณกำลังเริ่มต้นอะไรใหม่ด้วยใจที่บริสุทธิ์ หรือคุณกำลังหลงลืมความจริงบางอย่างเพราะความสบาย?",
     "image_path": "/assets/major/0_The_Fool.webp",
-    "number": 0
+    "number": 0,
+    "keywords_en": "Innocence, New Beginnings, Pure Potential",
+    "tagline_en": "The first step of faith, from the golden cage to the vast world",
+    "main_image_desc_en": "A graceful young prince stands at the terrace's edge, amidst the splendor of the golden palace and blooming gardens representing worldly pleasure (kāma-sukha). His face radiates innocence yet carries a curious questioning.",
+    "secondary_image_desc_en": "The distant horizon and sunlight ahead symbolize 'truth' awaiting discovery. The palace walls, though beautiful, serve as frames limiting one's worldview. The foot about to step forward signals a spirit ready to leave comfort behind for a greater journey into the unknown.",
+    "dharma_essence_en": "This card represents the 'original mind' or the beginning state of learning. Prince Siddhartha at this time has not yet encountered old age, sickness, and death (The Four Divine Messengers). His mind is pure and empty like white cloth, ready to receive new experiences. It is the state where one realizes 'material happiness may not be the final answer' and begins to seek life's true meaning.",
+    "prompt_en": "Are you starting something new with a pure heart, or are you forgetting certain truths due to comfort?"
   },
   {
     "header": "I. The Magician : สหชาติ (The Birth)",
@@ -31,7 +37,13 @@
     "reversed": [],
     "prompt": "คุณมีพรสวรรค์อะไรที่ซ่อนอยู่ และคุณจะใช้มันสร้างสรรค์สิ่งดีๆ ได้อย่างไร?",
     "image_path": "/assets/major/1_The_Magician.webp",
-    "number": 1
+    "number": 1,
+    "keywords_en": "Power, Miracles, Divine Gift",
+    "tagline_en": "I am the foremost in all worlds... the proclamation of spiritual sovereignty",
+    "main_image_desc_en": "A radiant infant prince stands firmly upon seven blooming lotus flowers in a sacred atmosphere bridging heaven and earth. One hand points to the sky, the other to the ground—the symbol of 'āsabhivāca' (bold declaration).",
+    "secondary_image_desc_en": "Devas and humans surround and offer tributes representing the four elements (earth, water, wind, fire). Celestial rain showers down in celebration. This image shows the power to unite and master all natural elements as one.",
+    "dharma_essence_en": "This card represents 'innate awakening potential.' The seven lotuses symbolize the Seven Factors of Enlightenment (bojjhaṅga). Pointing to sky and earth conveys truth spanning all three worlds. The declaration 'I shall end all suffering' shows the fierce Determination that ignites all life's miracles.",
+    "prompt_en": "What hidden talents do you possess, and how can you use them to create something good?"
   },
   {
     "header": "II. The High Priestess : พระสุบินนิมิต (Queen Maya’s Dream)",
@@ -48,7 +60,13 @@
     "reversed": [],
     "prompt": "เสียงกระซิบจากข้างในบอกอะไรกับคุณในตอนนี้?",
     "image_path": "/assets/major/2_The_High_Priestess.webp",
-    "number": 2
+    "number": 2,
+    "keywords_en": "Intuition, Mystery, Vision",
+    "tagline_en": "Truth hidden behind the veil of mist... whispers from the soul",
+    "main_image_desc_en": "Queen Māyā sleeps peacefully under the soft light of the full moon. The atmosphere is silent and cool. A pure white elephant holding a white lotus descends from the moon above—a heavenly message about to enter the womb.",
+    "secondary_image_desc_en": "Thin curtains flutter, dividing the world of reality from dreams. A clear water basin reflects the moon and white elephant, symbolizing the 'subconscious'—deep and clear—capable of perceiving unseen truths.",
+    "dharma_essence_en": "This card reflects 'bhavaṅga-citta'—the subtle mind open to receiving omens from nature. The dream of the white elephant is not merely a dream but a symbol of Intuition perceiving the arrival of a great meritorious being. It teaches that truth exists beyond the tangible—some truths can only be known through a still mind.",
+    "prompt_en": "What is the whisper from within telling you right now?"
   },
   {
     "header": "III. The Empress : พระนางสิริมหามายา (พระพุทธมารดา)",
@@ -65,7 +83,13 @@
     "reversed": [],
     "prompt": "สิ่งยิ่งใหญ่ใดที่คุณกำลังฟูมฟักและพร้อมที่จะให้กำเนิดออกมาสู่โลกใบนี้?",
     "image_path": "/assets/major/3_The_Empress.webp",
-    "number": 3
+    "number": 3,
+    "keywords_en": "Mother Creator, Nature's Power, Abundance, Great Creation",
+    "tagline_en": "The embrace of the earth... nature's power nurturing life into existence",
+    "main_image_desc_en": "The pregnant Queen Māyā stands gracefully and joyfully beneath the shade of a Sāla tree in Lumbini Garden. Her right hand reaches up to grasp a branch bending toward her (birth posture), showing the symbiotic relationship between humans and nature.",
+    "secondary_image_desc_en": "Divine lotuses bloom at ground level, rising to receive the infant's steps (symbol of a blessed birth). The lush forest and clear streams surround, with Venus's shield subtly placed—representing the sacred power of motherhood and pure love.",
+    "dharma_essence_en": "This card represents 'mātukāma'—the mother's role of giving birth, not just to life but to 'Buddha' (the awakened one). It is nature's greatest creative power, teaching unconditional love and understanding that birth requires complete conditions (nature's causes and effects).",
+    "prompt_en": "What great thing are you nurturing, ready to bring forth into this world?"
   },
   {
     "header": "IV. The Emperor : พระเจ้าสุทโธทนะ",
@@ -82,7 +106,13 @@
     "reversed": [],
     "prompt": "คุณกำลังพยายามควบคุมสถานการณ์มากเกินไปจนอึดอัดหรือไม่?",
     "image_path": "/assets/major/4_The_Emperor.webp",
-    "number": 4
+    "number": 4,
+    "keywords_en": "Authority, Order, Protection",
+    "tagline_en": "The power of the royal father... walls built with love, rules made from care",
+    "main_image_desc_en": "King Suddhodana, the great monarch of Kapilavatthu, sits firmly on his stone throne showing an unshakeable power foundation. His stern face carries watchful eyes. One hand grips the sword of authority and scepter, symbolizing governing power.",
+    "secondary_image_desc_en": "Towering city walls behind—built to protect the city and especially to shield Prince Siddhartha from external suffering. Stone tablets of laws and city plans nearby show faith in systems, order, and controlling everything.",
+    "dharma_essence_en": "This card represents 'worldly power' and 'attachment to form.' King Suddhodana symbolizes a father's well-meaning love, wanting his son to enjoy worldly happiness, thus creating a 'golden cage' (three-season palaces). This lesson shows that controlling life's truths (aging, sickness, death) with power and walls is impossible—excessive love may become an obstacle to spiritual growth.",
+    "prompt_en": "Are you trying to control situations too much, causing suffocation?"
   },
   {
     "header": "V. The Hierophant : พระดาบส",
@@ -99,7 +129,13 @@
     "reversed": [],
     "prompt": "คุณกำลังเรียนรู้จากแหล่งความรู้ที่ถูกต้อง หรือแค่ทำตามๆ กันมา?",
     "image_path": "/assets/major/5_The_Hierophant.webp",
-    "number": 5
+    "number": 5,
+    "keywords_en": "Learning, Religion, Tradition",
+    "tagline_en": "The initial quest... light from teachers and traditions",
+    "main_image_desc_en": "An elderly sage with white beard sits still on a high stone platform within a forest hermitage. Wearing simple ascetic robes, one hand raises in the teaching mudrā. A young prince in royal attire kneels below with palms joined in respect, attentively listening.",
+    "secondary_image_desc_en": "Stacks of palm-leaf manuscripts represent knowledge passed down through ages. A burning sacrificial fire (homa ritual) with rising smoke shows practice according to traditional religious rituals.",
+    "dharma_essence_en": "This card represents Prince Siddhartha's early quest for liberation, studying under various teachers like Āḷāra Kālāma and Uddaka Rāmaputta. It is the stage of 'learning from existing systems,' relying on teachers and following traditions. Though this knowledge is only preliminary—not the 'true path to liberation' he later discovered himself—it forms an important foundation of wisdom.",
+    "prompt_en": "Are you learning from the right sources, or just following blindly?"
   },
   {
     "header": "VI. The Lovers : บ่วงอาลัย",
@@ -116,7 +152,13 @@
     "reversed": [],
     "prompt": "พันธนาการใดที่คุณต้องยอมปลดปล่อย เพื่อก้าวไปสู่การเติบโตที่แท้จริง?",
     "image_path": "/assets/major/6_The_Lovers.webp",
-    "number": 6
+    "number": 6,
+    "keywords_en": "Life's Crossroads, Great Decision, Love vs Duty, Sacrifice, Bonds of Heart",
+    "tagline_en": "The crossroads of the heart... when love becomes bondage and duty becomes the light to follow",
+    "main_image_desc_en": "Prince Siddhartha stands at the bedroom threshold on the night of the 'Great Renunciation.' Dressed for travel, he looks back at Princess Yasodharā and Rāhula sleeping peacefully in warm orange light. His gaze still carries longing attachment.",
+    "secondary_image_desc_en": "A glowing doorknob—the prince's hand on it signals the decision to 'close off' worldly life. The dark corridor ahead represents the path of seeking truth in solitude. Fallen flowers at the threshold symbolize worldly happiness about to be left behind.",
+    "dharma_essence_en": "This card reflects 'life's crossroads' between sensual pleasure (kāma-sukha) and renunciation (nekkhamma). It is humanity's greatest test—choosing between 'what we love' and 'what is right.' Crossing this bond requires immense determination and sacrifice.",
+    "prompt_en": "What bonds must you release to achieve true growth?"
   },
   {
     "header": "VII. The Chariot : มหาภิเนษกรมณ์ (The Great Renunciation)",
@@ -133,7 +175,13 @@
     "reversed": [],
     "prompt": "เป้าหมายข้างหน้าชัดเจนแค่ไหน และคุณพร้อมจะลุยฝ่าอุปสรรคไปหรือยัง?",
     "image_path": "/assets/major/7_The_Chariot.webp",
-    "number": 7
+    "number": 7,
+    "keywords_en": "Determination, Journey, Victory",
+    "tagline_en": "The great departure... victory of willpower over worldly bonds",
+    "main_image_desc_en": "Prince Siddhartha rides the horse Kanthaka soaring across the Anomā River under the full moon. His face shows determination, moving forward without hesitation. The loyal servant Channa follows, holding the horse's tail.",
+    "secondary_image_desc_en": "The city walls left behind below symbolize abandoning worldly ways and old frameworks. The Anomā River marks the boundary between lay and monastic life.",
+    "dharma_essence_en": "This card symbolizes 'fierce effort' (viriya) and using willpower to overcome obstacles, crossing from worldly shore to Dharma shore. The horse Kanthaka represents body and mind controlled by mindfulness, heading toward the goal.",
+    "prompt_en": "How clear is your goal ahead, and are you ready to push through obstacles?"
   },
   {
     "header": "VIII. Strength : การปลงผม (The Great Renunciation)",
@@ -150,7 +198,13 @@
     "reversed": [],
     "prompt": "สิ่งที่คุณต้องตัดทิ้งเพื่อจะเติบโตต่อไปคืออะไร?",
     "image_path": "/assets/major/8_Strength.webp",
-    "number": 8
+    "number": 8,
+    "keywords_en": "Patience, Self-Mastery, Inner Strength",
+    "tagline_en": "Conquering a million others cannot match conquering oneself... the first chapter of transcendence",
+    "main_image_desc_en": "Prince Siddhartha in ascetic robes stands calmly by the Anomā River, using his sword to cut his own hair—declaring the severance from rank and entry into monastic life.",
+    "secondary_image_desc_en": "A lion crouches peacefully at his feet, showing that power and raw instinct are subdued by Dharmic charisma and patience—not force.",
+    "dharma_essence_en": "This represents 'Self-Conquest.' The sword is 'wisdom weapon' cutting defilements. The lion symbolizes mastering the mind through 'khanti' (patience) and 'mettā' (loving-kindness).",
+    "prompt_en": "What must you cut away to continue growing?"
   },
   {
     "header": "IX. The Hermit : บำเพ็ญทุกขรกิริยา",
@@ -167,7 +221,13 @@
     "reversed": [],
     "prompt": "ในความเงียบสงัดตอนนี้ เสียงจากภายในใจกำลังพยายามบอกอะไรกับคุณ?",
     "image_path": "/assets/major/9_The_Hermit.webp",
-    "number": 9
+    "number": 9,
+    "keywords_en": "Inner Reflection, Seeking Deep Truth, Solitude, Mental Effort",
+    "tagline_en": "In the forest's silence... a tormented body cannot imprison a mind illuminated by wisdom",
+    "main_image_desc_en": "The Great Being sits in deep meditation during severe austerities. His body is emaciated, ribs visible, showing extreme effort and cutting off physical comfort. Despite bodily deterioration, a golden radiance (Inner Light) surrounds him—mind illuminated.",
+    "secondary_image_desc_en": "A lantern beside him symbolizes using wisdom to guide through darkness. The dim deep forest represents solitude and turning away from external chaos to focus within.",
+    "dharma_essence_en": "This card reflects 'tapas-dhamma' (burning away defilements) and 'viveka' (seclusion) of body and mind to seek ultimate truth. Though severe austerities are not the liberation path (extreme self-mortification), they are crucial learning—testing the limits of body and mind before discovering the Middle Way.",
+    "prompt_en": "In your current silence, what is your inner voice trying to tell you?"
   },
   {
     "header": "X. Wheel of Fortune : ถาดทองลอยทวนน้ำ",
@@ -184,7 +244,13 @@
     "reversed": [],
     "prompt": "เมื่อโอกาสมาถึง คุณกล้าที่จะทวนกระแสสังคมเพื่อสิ่งที่ถูกต้องไหม?",
     "image_path": "/assets/major/10_The_Wheel_of_Rotrune.webp",
-    "number": 10
+    "number": 10,
+    "keywords_en": "Turning Point, Destiny, Dharma's Flow",
+    "tagline_en": "When effort reaches its peak... the stream of destiny changes course",
+    "main_image_desc_en": "A golden bowl floats upstream against the fierce current of the Nerañjarā River—symbolizing actions defying worldly defilements and determined aspiration.",
+    "secondary_image_desc_en": "A seven-headed Nāga King rises from the Nāga realm to support the golden bowl. A great Bodhi tree spreads its shade on the riverbank—the goal of awakening about to arrive.",
+    "dharma_essence_en": "This is the event of 'testing merit through aspiration.' Floating upstream symbolizes 'going against the current' of defilements to attain Dharma. The most pivotal turning point in Buddha's biography.",
+    "prompt_en": "When opportunity arrives, will you dare go against society for what is right?"
   },
   {
     "header": "XI. Justice : พิณสามสาย",
@@ -201,7 +267,13 @@
     "reversed": [],
     "prompt": "ชีวิตคุณตอนนี้ตึงเกินไป หรือหย่อนเกินไป จนขาดความพอดีหรือไม่?",
     "image_path": "/assets/major/11_The_Justice.webp",
-    "number": 11
+    "number": 11,
+    "keywords_en": "Middle Way, Balance, Truth",
+    "tagline_en": "The celestial sound of the Middle Way... balance is the noble truth",
+    "main_image_desc_en": "Lord Indra floats on clouds above, playing a three-stringed lute. The middle string glows brightest—symbolizing the Middle Path (Majjhimā-paṭipadā).",
+    "secondary_image_desc_en": "The Bodhisattva sits below in awakened listening. Scales and divine food bowls beside him represent balance of caring for body and mind, judging with impartial wisdom.",
+    "dharma_essence_en": "The discovery of 'Majjhimā-paṭipadā' (Middle Way). Self-mortification is like an over-tightened string; sensual pleasure is like one too loose. Truth appears in balance. 'Justice' means giving truth to all formations.",
+    "prompt_en": "In what area of your life do you need to find more balance?"
   },
   {
     "header": "XII. The Hanged Man : สัจจะอธิษฐาน",
@@ -218,7 +290,13 @@
     "reversed": [],
     "prompt": "คุณพร้อมจะแลกอะไรบ้าง เพื่อให้ได้มาซึ่งสิ่งที่ต้องการที่สุด?",
     "image_path": "/assets/major/12_The_Hanged_Man.webp",
-    "number": 12
+    "number": 12,
+    "keywords_en": "Letting Go, Surrender, New Perspectives",
+    "tagline_en": "Hanging between worlds... seeing truth from a different angle",
+    "main_image_desc_en": "A figure suspended in contemplation, representing the shift in perspective that comes before enlightenment—seeing the world from an inverted viewpoint.",
+    "secondary_image_desc_en": "The world appears different when viewed from this position, teaching that attachment to a single perspective limits understanding.",
+    "dharma_essence_en": "This card represents 'nekkhamma' (renunciation) and the willingness to release old ways of thinking. True insight often requires suspending our usual viewpoint.",
+    "prompt_en": "What perspective might you need to release to see truth more clearly?"
   },
   {
     "header": "XIII. Death : พญามารกรีธาทัพ",
@@ -235,7 +313,13 @@
     "reversed": [],
     "prompt": "อะไรในชีวิตที่คุณควรปล่อยให้มันตายจากไป เพื่อเริ่มต้นใหม่?",
     "image_path": "/assets/major/13_Death.webp",
-    "number": 13
+    "number": 13,
+    "keywords_en": "Transformation, Endings, Rebirth",
+    "tagline_en": "The great transformation... every ending is a new beginning",
+    "main_image_desc_en": "The symbolic representation of change and transformation—not physical death but the death of the old self, making way for awakening.",
+    "secondary_image_desc_en": "Elements of decay and renewal intertwine, showing the natural cycle of all phenomena arising and passing away.",
+    "dharma_essence_en": "This represents 'anicca' (impermanence)—understanding that all conditioned things are subject to change. The Buddha taught that clinging to what must pass creates suffering.",
+    "prompt_en": "What old version of yourself needs to die for the new to emerge?"
   },
   {
     "header": "XIV. Temperance : พระแม่ธรณีบีบมวยผม",
@@ -252,7 +336,13 @@
     "reversed": [],
     "prompt": "ท่ามกลางพายุแห่งปัญหาที่รุมเร้า คุณจะหาจุดที่สมดุลที่สุดเพื่อรักษาความสงบในใจได้อย่างไร?",
     "image_path": "/assets/major/14_Temperance.webp",
-    "number": 14
+    "number": 14,
+    "keywords_en": "Harmony, Moderation, Patience",
+    "tagline_en": "The perfect blend... where opposites become one",
+    "main_image_desc_en": "A figure gracefully blends opposing forces together, representing the Middle Way's balance between extremes.",
+    "secondary_image_desc_en": "Two vessels exchange their contents in perfect flow, symbolizing the integration of body and mind, effort and ease.",
+    "dharma_essence_en": "This embodies 'majjhimā-paṭipadā' in practice—the patient cultivation of balance in all aspects of life. Neither too much nor too little.",
+    "prompt_en": "How can you bring more balance and moderation into your current situation?"
   },
   {
     "header": "XV. The Devil : ธิดามาร",
@@ -268,7 +358,13 @@
     "upright": [],
     "reversed": [],
     "image_path": "/assets/major/15_The_Devil.webp",
-    "number": 15
+    "number": 15,
+    "keywords_en": "Bondage, Attachment, Illusion",
+    "tagline_en": "The chains we choose... recognizing self-created prisons",
+    "main_image_desc_en": "Māra, the tempter, represents the forces of attachment and delusion that bind beings to suffering.",
+    "secondary_image_desc_en": "Figures appear chained yet their bonds are loose—they could escape if they recognized their bondage is self-created.",
+    "dharma_essence_en": "This represents 'kilesa' (defilements) and 'upādāna' (clinging). Māra symbolizes the internal forces of greed, hatred, and delusion that we allow to control us.",
+    "prompt_en": "What chains have you created for yourself that you could actually release?"
   },
   {
     "header": "XVI. The Tower : การทำลายเรือนแห่งตัณหา",
@@ -285,7 +381,13 @@
     "reversed": [],
     "prompt": "โครงสร้างใดในชีวิตที่คุณยึดถือไว้แน่นหนาเกินไป จนธรรมชาติอาจต้องส่งแรงกระแทกมาเพื่อให้คุณปล่อยวาง?",
     "image_path": "/assets/major/16_The_Tower.webp",
-    "number": 16
+    "number": 16,
+    "keywords_en": "Sudden Change, Revelation, Liberation",
+    "tagline_en": "When false structures crumble... truth stands revealed",
+    "main_image_desc_en": "A tower struck by lightning represents the sudden destruction of false beliefs and ego constructions.",
+    "secondary_image_desc_en": "Figures fall from the collapsing structure, but beyond the chaos, clear sky and new ground await.",
+    "dharma_essence_en": "This represents the destruction of 'sakkāya-diṭṭhi' (personality view)—the ego's elaborate constructions must fall for liberation to occur.",
+    "prompt_en": "What belief structure is ready to crumble, making way for deeper truth?"
   },
   {
     "header": "XVII. The Star : เสวยวิมุตติสุขและพญานาคปรก",
@@ -302,7 +404,13 @@
     "reversed": [],
     "prompt": "ท่ามกลางพายุของชีวิต คุณหาความสงบใจได้จากที่ไหน?",
     "image_path": "/assets/major/17_The_Star.webp",
-    "number": 17
+    "number": 17,
+    "keywords_en": "Hope, Inspiration, Guidance",
+    "tagline_en": "The light after darkness... the guiding star of Dharma",
+    "main_image_desc_en": "A radiant star illuminates the path ahead, representing the clarity and hope that comes after trials are passed.",
+    "secondary_image_desc_en": "Water is poured both on land and into a pool, symbolizing the nourishment of both the external world and inner consciousness.",
+    "dharma_essence_en": "This represents 'saddhā' (faith) and 'pasāda' (serene confidence)—the trust in the path that sustains practice through difficulties.",
+    "prompt_en": "What star guides you? What gives you hope and inspiration on your path?"
   },
   {
     "header": "XVIII. The Moon : บัวสี่เหล่า",
@@ -319,7 +427,13 @@
     "reversed": [],
     "prompt": "สิ่งที่คุณเห็น เป็นความจริง หรือเป็นเพียงเงาสะท้อนของความกลัว?",
     "image_path": "/assets/major/18_The_Moon.webp",
-    "number": 18
+    "number": 18,
+    "keywords_en": "Illusion, Fear, Subconscious",
+    "tagline_en": "Shadows in moonlight... facing what lies beneath",
+    "main_image_desc_en": "The moon casts shadows and creates uncertain forms, representing the realm of fears and illusions that must be traversed.",
+    "secondary_image_desc_en": "Creatures emerge from water, symbolizing subconscious fears arising to be processed and released.",
+    "dharma_essence_en": "This represents 'moha' (delusion) and the need to illuminate hidden fears. The path through darkness requires mindfulness.",
+    "prompt_en": "What fears or illusions are you ready to face and see through?"
   },
   {
     "header": "XIX. The Sun : ปฐมเทศนา",
@@ -336,7 +450,13 @@
     "reversed": [],
     "prompt": "ความสุขที่แท้จริงของคุณ คือการได้รับ หรือการให้?",
     "image_path": "/assets/major/19_The_Sun.webp",
-    "number": 19
+    "number": 19,
+    "keywords_en": "Joy, Success, Clarity",
+    "tagline_en": "Radiant awakening... the warmth of true understanding",
+    "main_image_desc_en": "The brilliant sun represents complete clarity, success, and the joy of awakening understanding.",
+    "secondary_image_desc_en": "All is illuminated under the sun's light—nothing hidden, nothing obscured. Pure, direct knowing.",
+    "dharma_essence_en": "This represents 'āloka' (light) and 'ñāṇa' (knowledge)—the clarity that comes with genuine insight and understanding.",
+    "prompt_en": "What areas of your life are becoming clearer? What success is manifesting?"
   },
   {
     "header": "XX. Judgement : เปิดโลก",
@@ -353,7 +473,13 @@
     "reversed": [],
     "prompt": "ถ้าวันนี้เป็นวันสุดท้าย เรื่องค้างคาใจอะไรที่คุณอยากสะสาง?",
     "image_path": "/assets/major/20_The_Judgement.webp",
-    "number": 20
+    "number": 20,
+    "keywords_en": "Awakening, Calling, Rebirth",
+    "tagline_en": "The call to rise... answering your highest purpose",
+    "main_image_desc_en": "Figures rise in response to a great call, representing the moment of awakening to one's true purpose.",
+    "secondary_image_desc_en": "The trumpet sounds across all realms, calling beings to rise beyond their previous limitations.",
+    "dharma_essence_en": "This represents 'uppatti' (arising) in a new form—responding to the Dharma's call to awaken and live according to truth.",
+    "prompt_en": "What is your highest calling? Are you answering it?"
   },
   {
     "header": "XXI. The World : ปรินิพพาน",
@@ -370,7 +496,13 @@
     "reversed": [],
     "prompt": "อะไรคือ 'ความสมบูรณ์' ในนิยามของคุณ?",
     "image_path": "/assets/major/21_The_World.webp",
-    "number": 21
+    "number": 21,
+    "keywords_en": "Completion, Integration, Fulfillment",
+    "tagline_en": "The dancing cosmos... wholeness achieved",
+    "main_image_desc_en": "A figure dances within a cosmic wreath, representing complete integration and the fulfillment of the journey.",
+    "secondary_image_desc_en": "Four creatures in the corners represent the four elements unified. The journey is complete, yet the dance continues.",
+    "dharma_essence_en": "This represents 'nibbāna' (liberation)—the completion of the path where all aspects are integrated. The Buddha's teaching journey after enlightenment.",
+    "prompt_en": "What cycle is completing in your life? What wholeness are you achieving?"
   },
   {
     "header": "Ace of Dukkha : ชาติทุกข์",
@@ -404,7 +536,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังปิดตาข้างหนึ่งเพื่อหลีกเลี่ยงการตัดสินใจเรื่องอะไร?",
-    "image_path": "/assets/minor/DUKKHA/2_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/2_of_DUKKHA.webp",
+    "keywords_en": "Suffering 2, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 2... through pain comes understanding",
+    "main_image_desc_en": "Card 2 of the Dukkha suit representing the 2th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 2.",
+    "dharma_essence_en": "This represents the 2th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "3 of Dukkha : โสกะ",
@@ -421,7 +559,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความเจ็บปวดครั้งนี้สอนให้คุณเข้าใจความเปราะบางของชีวิตอย่างไร?",
-    "image_path": "/assets/minor/DUKKHA/3_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/3_of_DUKKHA.webp",
+    "keywords_en": "Suffering 3, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 3... through pain comes understanding",
+    "main_image_desc_en": "Card 3 of the Dukkha suit representing the 3th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 3.",
+    "dharma_essence_en": "This represents the 3th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "4 of Dukkha : พยาธิ",
@@ -438,7 +582,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ร่างกายและจิตใจของคุณกำลังเรียกร้องหาการพักผ่อนอยู่หรือไม่?",
-    "image_path": "/assets/minor/DUKKHA/4_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/4_of_DUKKHA.webp",
+    "keywords_en": "Suffering 4, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 4... through pain comes understanding",
+    "main_image_desc_en": "Card 4 of the Dukkha suit representing the 4th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 4.",
+    "dharma_essence_en": "This represents the 4th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "5 of Dukkha : โทสะ",
@@ -455,7 +605,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุ้มไหมที่จะชนะเถียงแต่ต้องเสียมิตรภาพ?",
-    "image_path": "/assets/minor/DUKKHA/5_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/5_of_DUKKHA.webp",
+    "keywords_en": "Suffering 5, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 5... through pain comes understanding",
+    "main_image_desc_en": "Card 5 of the Dukkha suit representing the 5th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 5.",
+    "dharma_essence_en": "This represents the 5th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "6 of Dukkha : พลัดพราก",
@@ -472,7 +628,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณพร้อมที่จะทิ้งสัมภาระทางใจ... เพื่อก้าวไปข้างหน้าหรือยัง?",
-    "image_path": "/assets/minor/DUKKHA/6_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/6_of_DUKKHA.webp",
+    "keywords_en": "Suffering 6, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 6... through pain comes understanding",
+    "main_image_desc_en": "Card 6 of the Dukkha suit representing the 6th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 6.",
+    "dharma_essence_en": "This represents the 6th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "7 of Dukkha : มายา",
@@ -488,7 +650,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังหลอกตัวเอง... หรือหลอกใครอยู่หรือเปล่า?",
-    "image_path": "/assets/minor/DUKKHA/7_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/7_of_DUKKHA.webp",
+    "keywords_en": "Suffering 7, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 7... through pain comes understanding",
+    "main_image_desc_en": "Card 7 of the Dukkha suit representing the 7th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 7.",
+    "dharma_essence_en": "This represents the 7th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "8 of Dukkha : พันธนาการ",
@@ -504,7 +672,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณถูกมัดไว้ด้วยเชือกจริง... หรือถูกมัดด้วยความคิดของตัวคุณเอง?",
-    "image_path": "/assets/minor/DUKKHA/8_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/8_of_DUKKHA.webp",
+    "keywords_en": "Suffering 8, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 8... through pain comes understanding",
+    "main_image_desc_en": "Card 8 of the Dukkha suit representing the 8th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 8.",
+    "dharma_essence_en": "This represents the 8th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "9 of Dukkha : อุทธัจจะ",
@@ -520,7 +694,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังหวาดกลัวเงาของปัญหา... มากกว่าตัวปัญหาจริงๆ หรือไม่?",
-    "image_path": "/assets/minor/DUKKHA/9_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/9_of_DUKKHA.webp",
+    "keywords_en": "Suffering 9, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 9... through pain comes understanding",
+    "main_image_desc_en": "Card 9 of the Dukkha suit representing the 9th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 9.",
+    "dharma_essence_en": "This represents the 9th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "10 of Dukkha : มรณะ",
@@ -536,7 +716,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งใดในชีวิตของคุณที่ถึงเวลาต้องปล่อยให้ตายไป... เพื่อให้สิ่งใหม่ได้เติบโต?",
-    "image_path": "/assets/minor/DUKKHA/10_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/10_of_DUKKHA.webp",
+    "keywords_en": "Suffering 10, Mental Pain, Challenge",
+    "tagline_en": "Facing dukkha 10... through pain comes understanding",
+    "main_image_desc_en": "Card 10 of the Dukkha suit representing the 10th stage of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements illustrating the nature of suffering at level 10.",
+    "dharma_essence_en": "This represents the 10th aspect of dukkha—understanding that suffering is inherent in clinging to impermanent phenomena.",
+    "prompt_en": "What suffering are you facing now, and what is it teaching you?"
   },
   {
     "header": "Page of Dukkha : ผู้ทรงธรรม",
@@ -552,7 +738,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ข้อมูลที่คุณได้รับมา... มีความจริงแท้แค่ไหน?",
-    "image_path": "/assets/minor/DUKKHA/Page_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/Page_of_DUKKHA.webp",
+    "keywords_en": "The Page of Suffering, Wisdom through Pain",
+    "tagline_en": "The Page navigating through suffering...",
+    "main_image_desc_en": "The Page of Dukkha embodies the mastery of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements showing the Page's relationship with suffering.",
+    "dharma_essence_en": "This Page represents one who has developed wisdom through direct experience with suffering.",
+    "prompt_en": "How can you transform your suffering into wisdom?"
   },
   {
     "header": "Knight of Dukkha : พระองคุลีมาล",
@@ -568,7 +760,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "พลังงานที่รุนแรงของคุณ กำลังถูกใช้เพื่อทำลาย... หรือเพื่อสร้างสรรค์?",
-    "image_path": "/assets/minor/DUKKHA/Knight_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/Knight_of_DUKKHA.webp",
+    "keywords_en": "The Knight of Suffering, Wisdom through Pain",
+    "tagline_en": "The Knight navigating through suffering...",
+    "main_image_desc_en": "The Knight of Dukkha embodies the mastery of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements showing the Knight's relationship with suffering.",
+    "dharma_essence_en": "This Knight represents one who has developed wisdom through direct experience with suffering.",
+    "prompt_en": "How can you transform your suffering into wisdom?"
   },
   {
     "header": "Queen of Dukkha : พระปฏาจาราเถรี",
@@ -584,7 +782,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "บาดแผลในอดีตสร้างปัญญาให้คุณ... หรือสร้างกำแพงขังหัวใจคุณ?",
-    "image_path": "/assets/minor/DUKKHA/Queen_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/Queen_of_DUKKHA.webp",
+    "keywords_en": "The Queen of Suffering, Wisdom through Pain",
+    "tagline_en": "The Queen navigating through suffering...",
+    "main_image_desc_en": "The Queen of Dukkha embodies the mastery of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements showing the Queen's relationship with suffering.",
+    "dharma_essence_en": "This Queen represents one who has developed wisdom through direct experience with suffering.",
+    "prompt_en": "How can you transform your suffering into wisdom?"
   },
   {
     "header": "King of Dukkha : พระมหากัสสปะ",
@@ -600,7 +804,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "กฎระเบียบที่คุณถือปฏิบัติ... สร้างความสงบสุข หรือสร้างความทุกข์ให้คนรอบข้าง?",
-    "image_path": "/assets/minor/DUKKHA/King_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/King_of_DUKKHA.webp",
+    "keywords_en": "The King of Suffering, Wisdom through Pain",
+    "tagline_en": "The King navigating through suffering...",
+    "main_image_desc_en": "The King of Dukkha embodies the mastery of understanding suffering.",
+    "secondary_image_desc_en": "Symbolic elements showing the King's relationship with suffering.",
+    "dharma_essence_en": "This King represents one who has developed wisdom through direct experience with suffering.",
+    "prompt_en": "How can you transform your suffering into wisdom?"
   },
   {
     "header": "Ace of Samudaya : กามตัณหา",
@@ -634,7 +844,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความผูกพันนี้ส่งเสริมให้คุณเติบโต หรือฉุดรั้งให้คุณย่ำอยู่กับที่?",
-    "image_path": "/assets/minor/SAMUDAYA/2_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/2_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 2, Craving, Cause",
+    "tagline_en": "Understanding the root 2... where desire begins",
+    "main_image_desc_en": "Card 2 of Samudaya representing the 2th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 2.",
+    "dharma_essence_en": "This represents the 2th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "3 of Samudaya : ความมัวเมา",
@@ -651,7 +867,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขชั่วคราวนี้ คุ้มค่ากับสิ่งที่คุณต้องแลกไปหรือไม่?",
-    "image_path": "/assets/minor/SAMUDAYA/3_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/3_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 3, Craving, Cause",
+    "tagline_en": "Understanding the root 3... where desire begins",
+    "main_image_desc_en": "Card 3 of Samudaya representing the 3th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 3.",
+    "dharma_essence_en": "This represents the 3th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "4 of Samudaya : ความเบื่อหน่าย",
@@ -668,7 +890,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังรอคอยสิ่งที่ไม่มีอยู่จริง จนมองข้ามสิ่งที่มีค่าตรงหน้าไปหรือเปล่า?",
-    "image_path": "/assets/minor/SAMUDAYA/4_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/4_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 4, Craving, Cause",
+    "tagline_en": "Understanding the root 4... where desire begins",
+    "main_image_desc_en": "Card 4 of Samudaya representing the 4th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 4.",
+    "dharma_essence_en": "This represents the 4th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "5 of Samudaya : ความอาลัย",
@@ -685,7 +913,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "น้ำที่หกไปแล้วกู้คืนไม่ได้ แต่คุณจะทำอย่างไรกับน้ำที่ยังเหลืออยู่?",
-    "image_path": "/assets/minor/SAMUDAYA/5_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/5_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 5, Craving, Cause",
+    "tagline_en": "Understanding the root 5... where desire begins",
+    "main_image_desc_en": "Card 5 of Samudaya representing the 5th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 5.",
+    "dharma_essence_en": "This represents the 5th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "6 of Samudaya : สัญญาเก่า",
@@ -701,7 +935,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "อดีตเป็นเพียงความทรงจำที่สวยงาม หรือเป็นสิ่งที่ฉุดรั้งปัจจุบันของคุณ?",
-    "image_path": "/assets/minor/SAMUDAYA/6_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/6_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 6, Craving, Cause",
+    "tagline_en": "Understanding the root 6... where desire begins",
+    "main_image_desc_en": "Card 6 of Samudaya representing the 6th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 6.",
+    "dharma_essence_en": "This represents the 6th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "7 of Samudaya : วิมานในอากาศ",
@@ -718,7 +958,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งที่คุณกำลังไล่ตาม เป็นความฝันที่เป็นจริงได้ หรือเป็นเพียงภาพลวงตา?",
-    "image_path": "/assets/minor/SAMUDAYA/7_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/7_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 7, Craving, Cause",
+    "tagline_en": "Understanding the root 7... where desire begins",
+    "main_image_desc_en": "Card 7 of Samudaya representing the 7th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 7.",
+    "dharma_essence_en": "This represents the 7th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "8 of Samudaya : การละทิ้ง",
@@ -735,7 +981,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "อะไรคือสิ่งที่สำคัญจริงๆ จนคุณยอมทิ้งทุกอย่างเพื่อไปหามัน?",
-    "image_path": "/assets/minor/SAMUDAYA/8_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/8_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 8, Craving, Cause",
+    "tagline_en": "Understanding the root 8... where desire begins",
+    "main_image_desc_en": "Card 8 of Samudaya representing the 8th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 8.",
+    "dharma_essence_en": "This represents the 8th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "9 of Samudaya : มานะทิฏฐิ",
@@ -752,7 +1004,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขของคุณขึ้นอยู่กับการมี หรือการเป็น?",
-    "image_path": "/assets/minor/SAMUDAYA/9_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/9_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 9, Craving, Cause",
+    "tagline_en": "Understanding the root 9... where desire begins",
+    "main_image_desc_en": "Card 9 of Samudaya representing the 9th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 9.",
+    "dharma_essence_en": "This represents the 9th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "10 of Samudaya : วิมาน",
@@ -768,7 +1026,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "วิมานที่แท้จริง... ไม่ใช่ตึกราม แต่คือใจที่เป็นสุข",
-    "image_path": "/assets/minor/SAMUDAYA/10_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/10_of_SAMUDAYA.webp",
+    "keywords_en": "Origin 10, Craving, Cause",
+    "tagline_en": "Understanding the root 10... where desire begins",
+    "main_image_desc_en": "Card 10 of Samudaya representing the 10th understanding of craving's origin.",
+    "secondary_image_desc_en": "Visual elements showing how attachment arises at level 10.",
+    "dharma_essence_en": "This represents the 10th aspect of samudaya—seeing how craving (taṇhā) arises and creates suffering.",
+    "prompt_en": "What desires or cravings are influencing your current situation?"
   },
   {
     "header": "Page of Samudaya : นางวิสาขา",
@@ -784,7 +1048,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความเมตตา... คือดอกบัวที่บานจากใจ",
-    "image_path": "/assets/minor/SAMUDAYA/Page_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/Page_of_SAMUDAYA.webp",
+    "keywords_en": "The Page of Origin, Understanding Craving",
+    "tagline_en": "The Page understanding the roots of desire...",
+    "main_image_desc_en": "The Page of Samudaya represents mastery in understanding craving.",
+    "secondary_image_desc_en": "Symbolic elements showing the Page's wisdom about desire's origin.",
+    "dharma_essence_en": "This Page has deep insight into how craving arises and leads to suffering.",
+    "prompt_en": "Can you see the roots of your current desires?"
   },
   {
     "header": "Knight of Samudaya : พระนันทะ",
@@ -800,7 +1070,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความงามที่แท้จริง... ไม่เคยซีดจางตามกาลเวลา",
-    "image_path": "/assets/minor/SAMUDAYA/Knight_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/Knight_of_SAMUDAYA.webp",
+    "keywords_en": "The Knight of Origin, Understanding Craving",
+    "tagline_en": "The Knight understanding the roots of desire...",
+    "main_image_desc_en": "The Knight of Samudaya represents mastery in understanding craving.",
+    "secondary_image_desc_en": "Symbolic elements showing the Knight's wisdom about desire's origin.",
+    "dharma_essence_en": "This Knight has deep insight into how craving arises and leads to suffering.",
+    "prompt_en": "Can you see the roots of your current desires?"
   },
   {
     "header": "Queen of Samudaya : พระนางพิมพาเถรี",
@@ -815,7 +1091,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความรักที่ยิ่งใหญ่ที่สุด... คือการปล่อยให้เขาได้เติบโตในทางของเขา",
-    "image_path": "/assets/minor/SAMUDAYA/Queen_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/Queen_of_SAMUDAYA.webp",
+    "keywords_en": "The Queen of Origin, Understanding Craving",
+    "tagline_en": "The Queen understanding the roots of desire...",
+    "main_image_desc_en": "The Queen of Samudaya represents mastery in understanding craving.",
+    "secondary_image_desc_en": "Symbolic elements showing the Queen's wisdom about desire's origin.",
+    "dharma_essence_en": "This Queen has deep insight into how craving arises and leads to suffering.",
+    "prompt_en": "Can you see the roots of your current desires?"
   },
   {
     "header": "King of Samudaya : พระอานนท์",
@@ -830,7 +1112,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "การรับใช้ผู้อื่นด้วยหัวใจ... คือเกียรติยศที่สูงส่งที่สุด",
-    "image_path": "/assets/minor/SAMUDAYA/King_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/King_of_SAMUDAYA.webp",
+    "keywords_en": "The King of Origin, Understanding Craving",
+    "tagline_en": "The King understanding the roots of desire...",
+    "main_image_desc_en": "The King of Samudaya represents mastery in understanding craving.",
+    "secondary_image_desc_en": "Symbolic elements showing the King's wisdom about desire's origin.",
+    "dharma_essence_en": "This King has deep insight into how craving arises and leads to suffering.",
+    "prompt_en": "Can you see the roots of your current desires?"
   },
   {
     "header": "Ace of Nirodha : นิโรธ (ความดับทุกข์)",
@@ -862,7 +1150,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ท่ามกลางกระแสโลกที่เชี่ยวกราก... คุณยังยืนหยัดอยู่ในจุดที่สงบเงียบที่สุดได้หรือไม่?",
-    "image_path": "/assets/minor/NIRODHA/2_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/2_of_NIRODHA.webp",
+    "keywords_en": "Cessation 2, Peace, Release",
+    "tagline_en": "Finding peace 2... where suffering ends",
+    "main_image_desc_en": "Card 2 of Nirodha showing the 2th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 2.",
+    "dharma_essence_en": "This represents the 2th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "3 of Nirodha : สัมมาทิฏฐิ",
@@ -878,7 +1172,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "รากฐานที่คุณกำลังสร้างในวันนี้... จะนำไปสู่ความสงบที่ยั่งยืนได้จริงหรือไม่?",
-    "image_path": "/assets/minor/NIRODHA/3_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/3_of_NIRODHA.webp",
+    "keywords_en": "Cessation 3, Peace, Release",
+    "tagline_en": "Finding peace 3... where suffering ends",
+    "main_image_desc_en": "Card 3 of Nirodha showing the 3th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 3.",
+    "dharma_essence_en": "This represents the 3th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "4 of Nirodha : สัมมาสมาธิ",
@@ -894,7 +1194,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ในความเงียบงันของจิตใจ... คุณพร้อมที่จะฟังความจริงที่ยิ่งใหญ่ที่สุดแล้วหรือยัง?",
-    "image_path": "/assets/minor/NIRODHA/4_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/4_of_NIRODHA.webp",
+    "keywords_en": "Cessation 4, Peace, Release",
+    "tagline_en": "Finding peace 4... where suffering ends",
+    "main_image_desc_en": "Card 4 of Nirodha showing the 4th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 4.",
+    "dharma_essence_en": "This represents the 4th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "5 of Nirodha : ความขัดสน (ตบะ)",
@@ -909,7 +1215,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ในวันที่ร่างกายหรือทรัพย์สินขาดแคลน... จิตใจคุณยังสมบูรณ์ดีอยู่ไหม?",
-    "image_path": "/assets/minor/NIRODHA/5_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/5_of_NIRODHA.webp",
+    "keywords_en": "Cessation 5, Peace, Release",
+    "tagline_en": "Finding peace 5... where suffering ends",
+    "main_image_desc_en": "Card 5 of Nirodha showing the 5th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 5.",
+    "dharma_essence_en": "This represents the 5th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "6 of Nirodha : ทานบารมี",
@@ -925,7 +1237,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ยิ่งให้... ยิ่งได้รับ",
-    "image_path": "/assets/minor/NIRODHA/6_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/6_of_NIRODHA.webp",
+    "keywords_en": "Cessation 6, Peace, Release",
+    "tagline_en": "Finding peace 6... where suffering ends",
+    "main_image_desc_en": "Card 6 of Nirodha showing the 6th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 6.",
+    "dharma_essence_en": "This represents the 6th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "7 of Nirodha : กฎแห่งกรรม",
@@ -941,7 +1259,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ผลไม้ที่สุกงอมตามธรรมชาติ... ย่อมหอมหวานกว่าผลไม้บ่มแก๊สเสมอ",
-    "image_path": "/assets/minor/NIRODHA/7_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/7_of_NIRODHA.webp",
+    "keywords_en": "Cessation 7, Peace, Release",
+    "tagline_en": "Finding peace 7... where suffering ends",
+    "main_image_desc_en": "Card 7 of Nirodha showing the 7th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 7.",
+    "dharma_essence_en": "This represents the 7th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "8 of Nirodha : สัมมาอาชีวะ",
@@ -957,7 +1281,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่องานคือชีวิต... จงทำให้มันเป็นศิลปะที่งดงามที่สุด",
-    "image_path": "/assets/minor/NIRODHA/8_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/8_of_NIRODHA.webp",
+    "keywords_en": "Cessation 8, Peace, Release",
+    "tagline_en": "Finding peace 8... where suffering ends",
+    "main_image_desc_en": "Card 8 of Nirodha showing the 8th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 8.",
+    "dharma_essence_en": "This represents the 8th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "9 of Nirodha : วิเวกสุข",
@@ -973,7 +1303,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขที่ยิ่งใหญ่... คือการไม่ต้องการอะไรเพิ่มอีกแล้ว",
-    "image_path": "/assets/minor/NIRODHA/9_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/9_of_NIRODHA.webp",
+    "keywords_en": "Cessation 9, Peace, Release",
+    "tagline_en": "Finding peace 9... where suffering ends",
+    "main_image_desc_en": "Card 9 of Nirodha showing the 9th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 9.",
+    "dharma_essence_en": "This represents the 9th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "10 of Nirodha : อริยทรัพย์",
@@ -989,7 +1325,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ทรัพย์ภายนอกทิ้งไว้เมื่อตาย... ทรัพย์ภายในติดตัวไปตลอดกาล",
-    "image_path": "/assets/minor/NIRODHA/10_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/10_of_NIRODHA.webp",
+    "keywords_en": "Cessation 10, Peace, Release",
+    "tagline_en": "Finding peace 10... where suffering ends",
+    "main_image_desc_en": "Card 10 of Nirodha showing the 10th experience of cessation and peace.",
+    "secondary_image_desc_en": "Visual elements depicting the release from suffering at level 10.",
+    "dharma_essence_en": "This represents the 10th aspect of nirodha—experiencing the peace that comes when craving ceases.",
+    "prompt_en": "Where in your life have you experienced peace through letting go?"
   },
   {
     "header": "Page of Nirodha : อนาถบิณฑิกเศรษฐี",
@@ -1005,7 +1347,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสำเร็จที่ยิ่งใหญ่... เริ่มต้นจากการลงมือทำสิ่งเล็กๆ ในวันนี้",
-    "image_path": "/assets/minor/NIRODHA/Page_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/Page_of_NIRODHA.webp",
+    "keywords_en": "The Page of Cessation, Embodying Peace",
+    "tagline_en": "The Page resting in peace...",
+    "main_image_desc_en": "The Page of Nirodha embodies the peace of cessation.",
+    "secondary_image_desc_en": "Symbolic elements showing the Page's attainment of inner peace.",
+    "dharma_essence_en": "This Page has experienced the cessation of suffering through releasing attachment.",
+    "prompt_en": "What peace is available to you right now if you let go?"
   },
   {
     "header": "Knight of Nirodha : พระอนุรุทธะ",
@@ -1021,7 +1369,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ตาเนื้ออาจพร่ามัว... แต่ตาปัญญาต้องแจ่มชัดเสมอ",
-    "image_path": "/assets/minor/NIRODHA/Knight_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/Knight_of_NIRODHA.webp",
+    "keywords_en": "The Knight of Cessation, Embodying Peace",
+    "tagline_en": "The Knight resting in peace...",
+    "main_image_desc_en": "The Knight of Nirodha embodies the peace of cessation.",
+    "secondary_image_desc_en": "Symbolic elements showing the Knight's attainment of inner peace.",
+    "dharma_essence_en": "This Knight has experienced the cessation of suffering through releasing attachment.",
+    "prompt_en": "What peace is available to you right now if you let go?"
   },
   {
     "header": "Queen of Nirodha : พระนางอัมพปาลีเถรี",
@@ -1037,7 +1391,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความงามภายนอกร่วงโรยตามกาลเวลา... แต่ความงามภายในคงอยู่ตลอดกาล",
-    "image_path": "/assets/minor/NIRODHA/Queen_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/Queen_of_NIRODHA.webp",
+    "keywords_en": "The Queen of Cessation, Embodying Peace",
+    "tagline_en": "The Queen resting in peace...",
+    "main_image_desc_en": "The Queen of Nirodha embodies the peace of cessation.",
+    "secondary_image_desc_en": "Symbolic elements showing the Queen's attainment of inner peace.",
+    "dharma_essence_en": "This Queen has experienced the cessation of suffering through releasing attachment.",
+    "prompt_en": "What peace is available to you right now if you let go?"
   },
   {
     "header": "King of Nirodha : พระสีวลีเถระ",
@@ -1053,7 +1413,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่อคุณเป็นผู้ให้ที่ยิ่งใหญ่... โลกจะตอบแทนคุณอย่างมหาศาล",
-    "image_path": "/assets/minor/NIRODHA/King_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/King_of_NIRODHA.webp",
+    "keywords_en": "The King of Cessation, Embodying Peace",
+    "tagline_en": "The King resting in peace...",
+    "main_image_desc_en": "The King of Nirodha embodies the peace of cessation.",
+    "secondary_image_desc_en": "Symbolic elements showing the King's attainment of inner peace.",
+    "dharma_essence_en": "This King has experienced the cessation of suffering through releasing attachment.",
+    "prompt_en": "What peace is available to you right now if you let go?"
   },
   {
     "header": "Ace of Magga : สัมมาทิฏฐิ",
@@ -1083,7 +1449,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "เป้าหมายที่ชัดเจน... คือเข็มทิศของชีวิต",
-    "image_path": "/assets/minor/MAGGA/2_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/2_of_MAGGA.webp",
+    "keywords_en": "Path 2, Practice, Way",
+    "tagline_en": "Walking the path 2... steady steps to liberation",
+    "main_image_desc_en": "Card 2 of Magga representing the 2th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 2.",
+    "dharma_essence_en": "This represents the 2th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "3 of Magga : การเผยแผ่",
@@ -1098,7 +1470,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คำพูดที่ดีสร้างมิตร... คำพูดที่เป็นพิษสร้างศัตรู",
-    "image_path": "/assets/minor/MAGGA/3_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/3_of_MAGGA.webp",
+    "keywords_en": "Path 3, Practice, Way",
+    "tagline_en": "Walking the path 3... steady steps to liberation",
+    "main_image_desc_en": "Card 3 of Magga representing the 3th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 3.",
+    "dharma_essence_en": "This represents the 3th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "4 of Magga : สัมมากัมมันตะ (ความสามัคคี)",
@@ -1113,7 +1491,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขที่แท้จริง... คือการได้แบ่งปันความสุขนั้นกับผู้อื่น",
-    "image_path": "/assets/minor/MAGGA/4_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/4_of_MAGGA.webp",
+    "keywords_en": "Path 4, Practice, Way",
+    "tagline_en": "Walking the path 4... steady steps to liberation",
+    "main_image_desc_en": "Card 4 of Magga representing the 4th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 4.",
+    "dharma_essence_en": "This represents the 4th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "5 of Magga : ความขัดแย้ง (นิวรณ์)",
@@ -1128,7 +1512,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ชนะคนอื่นได้โลก... ชนะตนเองได้ธรรม",
-    "image_path": "/assets/minor/MAGGA/5_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/5_of_MAGGA.webp",
+    "keywords_en": "Path 5, Practice, Way",
+    "tagline_en": "Walking the path 5... steady steps to liberation",
+    "main_image_desc_en": "Card 5 of Magga representing the 5th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 5.",
+    "dharma_essence_en": "This represents the 5th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "6 of Magga : ชัยชนะ (ความเพียร)",
@@ -1143,7 +1533,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสำเร็จมีไว้ให้ชื่นชม... ไม่ใช่ให้ยึดติด",
-    "image_path": "/assets/minor/MAGGA/6_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/6_of_MAGGA.webp",
+    "keywords_en": "Path 6, Practice, Way",
+    "tagline_en": "Walking the path 6... steady steps to liberation",
+    "main_image_desc_en": "Card 6 of Magga representing the 6th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 6.",
+    "dharma_essence_en": "This represents the 6th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "7 of Magga : สัมมาสติ (การรักษา)",
@@ -1158,7 +1554,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ศัตรูที่น่ากลัวที่สุดไม่ใช่คนอื่น... แต่คือใจที่ขาดสติ",
-    "image_path": "/assets/minor/MAGGA/7_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/7_of_MAGGA.webp",
+    "keywords_en": "Path 7, Practice, Way",
+    "tagline_en": "Walking the path 7... steady steps to liberation",
+    "main_image_desc_en": "Card 7 of Magga representing the 7th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 7.",
+    "dharma_essence_en": "This represents the 7th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "8 of Magga : ญาณหยั่งรู้ (ความรวดเร็ว)",
@@ -1173,7 +1575,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความเร็วต้องมาพร้อมกับทิศทาง... มิฉะนั้นคือหายนะ",
-    "image_path": "/assets/minor/MAGGA/8_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/8_of_MAGGA.webp",
+    "keywords_en": "Path 8, Practice, Way",
+    "tagline_en": "Walking the path 8... steady steps to liberation",
+    "main_image_desc_en": "Card 8 of Magga representing the 8th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 8.",
+    "dharma_essence_en": "This represents the 8th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "9 of Magga : ขันติบารมี",
@@ -1188,7 +1596,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "คนเก่งไม่ใช่คนที่ไม่เคยล้ม... แต่คือคนที่ลุกขึ้นมาได้ทุกครั้งที่ล้ม",
-    "image_path": "/assets/minor/MAGGA/9_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/9_of_MAGGA.webp",
+    "keywords_en": "Path 9, Practice, Way",
+    "tagline_en": "Walking the path 9... steady steps to liberation",
+    "main_image_desc_en": "Card 9 of Magga representing the 9th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 9.",
+    "dharma_essence_en": "This represents the 9th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "10 of Magga : ขันธ์ 5 (ภาระ)",
@@ -1203,7 +1617,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "แบกหินไปตกนรก... วางลงก็ขึ้นสวรรค์",
-    "image_path": "/assets/minor/MAGGA/10_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/10_of_MAGGA.webp",
+    "keywords_en": "Path 10, Practice, Way",
+    "tagline_en": "Walking the path 10... steady steps to liberation",
+    "main_image_desc_en": "Card 10 of Magga representing the 10th step on the path to liberation.",
+    "secondary_image_desc_en": "Visual elements depicting practice and cultivation at level 10.",
+    "dharma_essence_en": "This represents the 10th aspect of magga—the practical path leading to the cessation of suffering.",
+    "prompt_en": "What step on your path are you currently taking?"
   },
   {
     "header": "Page of Magga : จิตตคฤหบดี",
@@ -1219,7 +1639,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความรู้เสมือนดาบ... ถ้าใช้ไม่เป็นจะบาดมือตัวเอง",
-    "image_path": "/assets/minor/MAGGA/Page_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/Page_of_MAGGA.webp",
+    "keywords_en": "The Page of the Path, Walking the Way",
+    "tagline_en": "The Page on the noble path...",
+    "main_image_desc_en": "The Page of Magga embodies dedicated practice on the path.",
+    "secondary_image_desc_en": "Symbolic elements showing the Page's commitment to the way.",
+    "dharma_essence_en": "This Page demonstrates mastery in walking the Eightfold Path.",
+    "prompt_en": "How committed are you to your chosen path?"
   },
   {
     "header": "Knight of Magga : พระมหาโมคคัลลานะ",
@@ -1235,7 +1661,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "พลังที่ปราศจากการควบคุม... คือหายนะ",
-    "image_path": "/assets/minor/MAGGA/Knight_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/Knight_of_MAGGA.webp",
+    "keywords_en": "The Knight of the Path, Walking the Way",
+    "tagline_en": "The Knight on the noble path...",
+    "main_image_desc_en": "The Knight of Magga embodies dedicated practice on the path.",
+    "secondary_image_desc_en": "Symbolic elements showing the Knight's commitment to the way.",
+    "dharma_essence_en": "This Knight demonstrates mastery in walking the Eightfold Path.",
+    "prompt_en": "How committed are you to your chosen path?"
   },
   {
     "header": "Queen of Magga : พระนางเขมาเถรี",
@@ -1251,7 +1683,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ผู้หญิงสวยมีวันแก่... แต่ผู้หญิงฉลาดมีแต่จะยิ่งเด่นชัด",
-    "image_path": "/assets/minor/MAGGA/Queen_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/Queen_of_MAGGA.webp",
+    "keywords_en": "The Queen of the Path, Walking the Way",
+    "tagline_en": "The Queen on the noble path...",
+    "main_image_desc_en": "The Queen of Magga embodies dedicated practice on the path.",
+    "secondary_image_desc_en": "Symbolic elements showing the Queen's commitment to the way.",
+    "dharma_essence_en": "This Queen demonstrates mastery in walking the Eightfold Path.",
+    "prompt_en": "How committed are you to your chosen path?"
   },
   {
     "header": "King of Magga : พระสารีบุตร",
@@ -1267,6 +1705,12 @@
     "upright": [],
     "reversed": [],
     "prompt": "ผู้นำที่ดีคือผู้ที่สร้างผู้นำคนต่อไป",
-    "image_path": "/assets/minor/MAGGA/King_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/King_of_MAGGA.webp",
+    "keywords_en": "The King of the Path, Walking the Way",
+    "tagline_en": "The King on the noble path...",
+    "main_image_desc_en": "The King of Magga embodies dedicated practice on the path.",
+    "secondary_image_desc_en": "Symbolic elements showing the King's commitment to the way.",
+    "dharma_essence_en": "This King demonstrates mastery in walking the Eightfold Path.",
+    "prompt_en": "How committed are you to your chosen path?"
   }
 ]
