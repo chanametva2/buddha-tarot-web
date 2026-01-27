@@ -445,10 +445,10 @@ export default function Reading() {
                 <AnimatePresence>
                     {isCopied && (
                         <motion.div
-                            initial={{ opacity: 0, y: 50 }}
-                            animate={{ opacity: 1, y: 0 }}
-                            exit={{ opacity: 0, y: 50 }}
-                            className="fixed bottom-8 left-1/2 -translate-x-1/2 z-[150] bg-gold-500 text-indigo-950 px-6 py-3 rounded-full shadow-2xl flex items-center gap-3 font-medium border border-white/20"
+                            initial={{ opacity: 0, scale: 0.9 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            exit={{ opacity: 0, scale: 0.9 }}
+                            className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-[150] bg-gold-500 text-indigo-950 px-8 py-4 rounded-xl shadow-2xl flex items-center gap-3 font-medium border border-white/20 text-lg"
                         >
                             <Check className="w-5 h-5" />
                             <span>
