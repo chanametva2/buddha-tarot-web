@@ -100,6 +100,7 @@ export default function Gallery() {
                                     key={card.id}
                                     card={{ ...card, displayName: content.name, displaySubtitle: content.subtitle }}
                                     onClick={() => setSelectedCard(card)}
+                                    thumbnail={true}
                                 />
                             );
                         })}

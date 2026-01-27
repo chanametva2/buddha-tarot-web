@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-export const Card = ({ card, onClick }) => {
+export const Card = ({ card, onClick, thumbnail = false }) => {
 
     // Use passed displayName if available (for i18n), fallback to name_en
     const displayName = card.displayName || card.name_en;
@@ -10,14 +10,26 @@ export const Card = ({ card, onClick }) => {
     const getImageUrl = (path) => {
         if (!path) return '';
 
-        // Handle absolute paths (e.g., from updated cards.json)
-        if (path.startsWith('/assets/')) {
-            // Remove leading slash since BASE_URL includes trailing slash
-            return `${import.meta.env.BASE_URL}${path.slice(1)}`;
+        let finalPath = path;
+
+        // Use thumbnail path if requested
+        if (thumbnail) {
+            if (finalPath.startsWith('/assets/')) {
+                finalPath = finalPath.replace('/assets/', '/assets/thumbnails/');
+            } else {
+                // Fallback for potential legacy paths
+                finalPath = finalPath.replace('../public/assets/', '').replace('assets/', '');
+                finalPath = `/assets/thumbnails/${finalPath}`;
+            }
         }
 
-        // Handle legacy relative paths (backward compatibility)
-        const cleanPath = path.replace('../', '');
+        // Handle absolute paths
+        if (finalPath.startsWith('/assets/')) {
+            return `${import.meta.env.BASE_URL}${finalPath.slice(1)}`;
+        }
+
+        // Legacy relative path fallback
+        const cleanPath = finalPath.replace('../', '');
         return `${import.meta.env.BASE_URL}assets/${cleanPath}`;
     };
 
