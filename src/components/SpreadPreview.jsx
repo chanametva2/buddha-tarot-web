@@ -8,9 +8,8 @@ export const SpreadPreview = ({ layout, count }) => {
         switch (layout) {
             case 'cross':
                 return (
-                    // 4 cards: Center, Left, Top, Bottom (Cross/Diamond)
+                    // 4 cards: Top, Bottom, Left, Right (Diamond) - Fixed for Four Noble Truths
                     <g transform="translate(50, 50)">
-                        <rect x="-10" y="-15" width="20" height="30" className={cardClass} /> {/* Center */}
                         <rect x="-10" y="20" width="20" height="30" className={cardClass} />  {/* Bottom */}
                         <rect x="-10" y="-50" width="20" height="30" className={cardClass} /> {/* Top */}
                         <rect x="-45" y="-15" width="20" height="30" className={cardClass} /> {/* Left */}
