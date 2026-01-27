@@ -9,9 +9,15 @@ export const Card = ({ card, onClick }) => {
 
     const getImageUrl = (path) => {
         if (!path) return '';
-        // Replace ../ with nothing, we will construct the path manually
+
+        // Handle absolute paths (e.g., from updated cards.json)
+        if (path.startsWith('/assets/')) {
+            // Remove leading slash since BASE_URL includes trailing slash
+            return `${import.meta.env.BASE_URL}${path.slice(1)}`;
+        }
+
+        // Handle legacy relative paths (backward compatibility)
         const cleanPath = path.replace('../', '');
-        // Construct path using BASE_URL to handle both local (root) and production (subpath)
         return `${import.meta.env.BASE_URL}assets/${cleanPath}`;
     };
 
@@ -31,6 +37,7 @@ export const Card = ({ card, onClick }) => {
                     <img
                         src={getImageUrl(card.image_path)}
                         alt={displayName}
+                        loading="lazy"
                         className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                         onError={(e) => { e.target.style.display = 'none' }}
                     />

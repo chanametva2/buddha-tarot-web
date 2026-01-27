@@ -13,7 +13,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังเริ่มต้นอะไรใหม่ด้วยใจที่บริสุทธิ์ หรือคุณกำลังหลงลืมความจริงบางอย่างเพราะความสบาย?",
-    "image_path": "../major/0_The_Fool.jpg",
+    "image_path": "/assets/major/0_The_Fool.webp",
     "number": 0
   },
   {
@@ -30,7 +30,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณมีพรสวรรค์อะไรที่ซ่อนอยู่ และคุณจะใช้มันสร้างสรรค์สิ่งดีๆ ได้อย่างไร?",
-    "image_path": "../major/1_The_Magician.jpg",
+    "image_path": "/assets/major/1_The_Magician.webp",
     "number": 1
   },
   {
@@ -47,7 +47,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เสียงกระซิบจากข้างในบอกอะไรกับคุณในตอนนี้?",
-    "image_path": "../major/2_The_High_Priestess.jpg",
+    "image_path": "/assets/major/2_The_High_Priestess.webp",
     "number": 2
   },
   {
@@ -64,7 +64,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งยิ่งใหญ่ใดที่คุณกำลังฟูมฟักและพร้อมที่จะให้กำเนิดออกมาสู่โลกใบนี้?",
-    "image_path": "../major/3_The_Empress.jpg",
+    "image_path": "/assets/major/3_The_Empress.webp",
     "number": 3
   },
   {
@@ -81,7 +81,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังพยายามควบคุมสถานการณ์มากเกินไปจนอึดอัดหรือไม่?",
-    "image_path": "../major/4_The_Emperor.jpg",
+    "image_path": "/assets/major/4_The_Emperor.webp",
     "number": 4
   },
   {
@@ -98,7 +98,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังเรียนรู้จากแหล่งความรู้ที่ถูกต้อง หรือแค่ทำตามๆ กันมา?",
-    "image_path": "../major/5_The_Hierophant.jpg",
+    "image_path": "/assets/major/5_The_Hierophant.webp",
     "number": 5
   },
   {
@@ -115,7 +115,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "พันธนาการใดที่คุณต้องยอมปลดปล่อย เพื่อก้าวไปสู่การเติบโตที่แท้จริง?",
-    "image_path": "../major/6_The_Lovers.jpg",
+    "image_path": "/assets/major/6_The_Lovers.webp",
     "number": 6
   },
   {
@@ -132,7 +132,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เป้าหมายข้างหน้าชัดเจนแค่ไหน และคุณพร้อมจะลุยฝ่าอุปสรรคไปหรือยัง?",
-    "image_path": "../major/7_The_Chariot.jpg",
+    "image_path": "/assets/major/7_The_Chariot.webp",
     "number": 7
   },
   {
@@ -149,7 +149,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งที่คุณต้องตัดทิ้งเพื่อจะเติบโตต่อไปคืออะไร?",
-    "image_path": "../major/8_Strength.jpg",
+    "image_path": "/assets/major/8_Strength.webp",
     "number": 8
   },
   {
@@ -166,7 +166,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ในความเงียบสงัดตอนนี้ เสียงจากภายในใจกำลังพยายามบอกอะไรกับคุณ?",
-    "image_path": "../major/9_The_Hermit.jpg",
+    "image_path": "/assets/major/9_The_Hermit.webp",
     "number": 9
   },
   {
@@ -183,7 +183,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่อโอกาสมาถึง คุณกล้าที่จะทวนกระแสสังคมเพื่อสิ่งที่ถูกต้องไหม?",
-    "image_path": "../major/10_The_Wheel_of_Rotrune.jpg",
+    "image_path": "/assets/major/10_The_Wheel_of_Rotrune.webp",
     "number": 10
   },
   {
@@ -200,7 +200,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ชีวิตคุณตอนนี้ตึงเกินไป หรือหย่อนเกินไป จนขาดความพอดีหรือไม่?",
-    "image_path": "../major/11_The_Justice.jpg",
+    "image_path": "/assets/major/11_The_Justice.webp",
     "number": 11
   },
   {
@@ -217,7 +217,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณพร้อมจะแลกอะไรบ้าง เพื่อให้ได้มาซึ่งสิ่งที่ต้องการที่สุด?",
-    "image_path": "../major/12_The_Hanged_Man.jpg",
+    "image_path": "/assets/major/12_The_Hanged_Man.webp",
     "number": 12
   },
   {
@@ -234,7 +234,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "อะไรในชีวิตที่คุณควรปล่อยให้มันตายจากไป เพื่อเริ่มต้นใหม่?",
-    "image_path": "../major/13_Death.jpg",
+    "image_path": "/assets/major/13_Death.webp",
     "number": 13
   },
   {
@@ -251,7 +251,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ท่ามกลางพายุแห่งปัญหาที่รุมเร้า คุณจะหาจุดที่สมดุลที่สุดเพื่อรักษาความสงบในใจได้อย่างไร?",
-    "image_path": "../major/14_Temperance.jpg",
+    "image_path": "/assets/major/14_Temperance.webp",
     "number": 14
   },
   {
@@ -267,7 +267,7 @@
     "dharma_essence": "} ไพ่ใบนี้คือบททดสอบเรื่อง ``กามสุข'' (Sensual Desire) ธิดามารคือตัวแทนของความรัก ความโลภ และความหลง ที่สวยงามที่สุดแต่ก็อันตรายที่สุด การจะผ่านด่านนี้ไปได้ ไม่ใช่การหนี แต่คือการ ``รู้ทัน'' ว่าสิ่งเหล่านี้เป็นเพียงมายาภาพที่ไม่จีรัง",
     "upright": [],
     "reversed": [],
-    "image_path": "../major/15_The_Devil.jpg",
+    "image_path": "/assets/major/15_The_Devil.webp",
     "number": 15
   },
   {
@@ -284,7 +284,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "โครงสร้างใดในชีวิตที่คุณยึดถือไว้แน่นหนาเกินไป จนธรรมชาติอาจต้องส่งแรงกระแทกมาเพื่อให้คุณปล่อยวาง?",
-    "image_path": "../major/16_The_Tower.jpg",
+    "image_path": "/assets/major/16_The_Tower.webp",
     "number": 16
   },
   {
@@ -301,7 +301,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ท่ามกลางพายุของชีวิต คุณหาความสงบใจได้จากที่ไหน?",
-    "image_path": "../major/17_The_Star.jpg",
+    "image_path": "/assets/major/17_The_Star.webp",
     "number": 17
   },
   {
@@ -318,7 +318,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งที่คุณเห็น เป็นความจริง หรือเป็นเพียงเงาสะท้อนของความกลัว?",
-    "image_path": "../major/18_The_Moon.jpg",
+    "image_path": "/assets/major/18_The_Moon.webp",
     "number": 18
   },
   {
@@ -335,7 +335,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขที่แท้จริงของคุณ คือการได้รับ หรือการให้?",
-    "image_path": "../major/19_The_Sun.jpg",
+    "image_path": "/assets/major/19_The_Sun.webp",
     "number": 19
   },
   {
@@ -352,7 +352,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ถ้าวันนี้เป็นวันสุดท้าย เรื่องค้างคาใจอะไรที่คุณอยากสะสาง?",
-    "image_path": "../major/20_The_Judgement.jpg",
+    "image_path": "/assets/major/20_The_Judgement.webp",
     "number": 20
   },
   {
@@ -369,7 +369,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "อะไรคือ 'ความสมบูรณ์' ในนิยามของคุณ?",
-    "image_path": "../major/21_The_World.jpg",
+    "image_path": "/assets/major/21_The_World.webp",
     "number": 21
   },
   {
@@ -387,7 +387,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความจริงเรื่องใดที่คุณพยายามหนี... แต่หนีไม่พ้น?",
-    "image_path": "../minor/DUKKHA/Ace_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/Ace_of_DUKKHA.webp"
   },
   {
     "header": "2 of Dukkha : วิจิกิจฉา",
@@ -404,7 +404,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังปิดตาข้างหนึ่งเพื่อหลีกเลี่ยงการตัดสินใจเรื่องอะไร?",
-    "image_path": "../minor/DUKKHA/2_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/2_of_DUKKHA.webp"
   },
   {
     "header": "3 of Dukkha : โสกะ",
@@ -421,7 +421,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความเจ็บปวดครั้งนี้สอนให้คุณเข้าใจความเปราะบางของชีวิตอย่างไร?",
-    "image_path": "../minor/DUKKHA/3_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/3_of_DUKKHA.webp"
   },
   {
     "header": "4 of Dukkha : พยาธิ",
@@ -438,7 +438,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ร่างกายและจิตใจของคุณกำลังเรียกร้องหาการพักผ่อนอยู่หรือไม่?",
-    "image_path": "../minor/DUKKHA/4_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/4_of_DUKKHA.webp"
   },
   {
     "header": "5 of Dukkha : โทสะ",
@@ -455,7 +455,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุ้มไหมที่จะชนะเถียงแต่ต้องเสียมิตรภาพ?",
-    "image_path": "../minor/DUKKHA/5_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/5_of_DUKKHA.webp"
   },
   {
     "header": "6 of Dukkha : พลัดพราก",
@@ -472,7 +472,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณพร้อมที่จะทิ้งสัมภาระทางใจ... เพื่อก้าวไปข้างหน้าหรือยัง?",
-    "image_path": "../minor/DUKKHA/6_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/6_of_DUKKHA.webp"
   },
   {
     "header": "7 of Dukkha : มายา",
@@ -488,7 +488,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังหลอกตัวเอง... หรือหลอกใครอยู่หรือเปล่า?",
-    "image_path": "../minor/DUKKHA/7_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/7_of_DUKKHA.webp"
   },
   {
     "header": "8 of Dukkha : พันธนาการ",
@@ -504,7 +504,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณถูกมัดไว้ด้วยเชือกจริง... หรือถูกมัดด้วยความคิดของตัวคุณเอง?",
-    "image_path": "../minor/DUKKHA/8_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/8_of_DUKKHA.webp"
   },
   {
     "header": "9 of Dukkha : อุทธัจจะ",
@@ -520,7 +520,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังหวาดกลัวเงาของปัญหา... มากกว่าตัวปัญหาจริงๆ หรือไม่?",
-    "image_path": "../minor/DUKKHA/9_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/9_of_DUKKHA.webp"
   },
   {
     "header": "10 of Dukkha : มรณะ",
@@ -536,7 +536,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งใดในชีวิตของคุณที่ถึงเวลาต้องปล่อยให้ตายไป... เพื่อให้สิ่งใหม่ได้เติบโต?",
-    "image_path": "../minor/DUKKHA/10_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/10_of_DUKKHA.webp"
   },
   {
     "header": "Page of Dukkha : ผู้ทรงธรรม",
@@ -552,7 +552,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ข้อมูลที่คุณได้รับมา... มีความจริงแท้แค่ไหน?",
-    "image_path": "../minor/DUKKHA/Page_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/Page_of_DUKKHA.webp"
   },
   {
     "header": "Knight of Dukkha : พระองคุลีมาล",
@@ -568,7 +568,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "พลังงานที่รุนแรงของคุณ กำลังถูกใช้เพื่อทำลาย... หรือเพื่อสร้างสรรค์?",
-    "image_path": "../minor/DUKKHA/Knight_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/Knight_of_DUKKHA.webp"
   },
   {
     "header": "Queen of Dukkha : พระปฏาจาราเถรี",
@@ -584,7 +584,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "บาดแผลในอดีตสร้างปัญญาให้คุณ... หรือสร้างกำแพงขังหัวใจคุณ?",
-    "image_path": "../minor/DUKKHA/Queen_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/Queen_of_DUKKHA.webp"
   },
   {
     "header": "King of Dukkha : พระมหากัสสปะ",
@@ -600,7 +600,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "กฎระเบียบที่คุณถือปฏิบัติ... สร้างความสงบสุข หรือสร้างความทุกข์ให้คนรอบข้าง?",
-    "image_path": "../minor/DUKKHA/King_of_DUKKHA.jpg"
+    "image_path": "/assets/minor/DUKKHA/King_of_DUKKHA.webp"
   },
   {
     "header": "Ace of Samudaya : กามตัณหา",
@@ -617,7 +617,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งที่คุณปรารถนาที่สุดในตอนนี้... นำมาซึ่งความสุขหรือความทุกข์?",
-    "image_path": "../minor/SAMUDAYA/Ace_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/Ace_of_SAMUDAYA.webp"
   },
   {
     "header": "2 of Samudaya : ความผูกพัน",
@@ -634,7 +634,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความผูกพันนี้ส่งเสริมให้คุณเติบโต หรือฉุดรั้งให้คุณย่ำอยู่กับที่?",
-    "image_path": "../minor/SAMUDAYA/2_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/2_of_SAMUDAYA.webp"
   },
   {
     "header": "3 of Samudaya : ความมัวเมา",
@@ -651,7 +651,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขชั่วคราวนี้ คุ้มค่ากับสิ่งที่คุณต้องแลกไปหรือไม่?",
-    "image_path": "../minor/SAMUDAYA/3_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/3_of_SAMUDAYA.webp"
   },
   {
     "header": "4 of Samudaya : ความเบื่อหน่าย",
@@ -668,7 +668,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คุณกำลังรอคอยสิ่งที่ไม่มีอยู่จริง จนมองข้ามสิ่งที่มีค่าตรงหน้าไปหรือเปล่า?",
-    "image_path": "../minor/SAMUDAYA/4_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/4_of_SAMUDAYA.webp"
   },
   {
     "header": "5 of Samudaya : ความอาลัย",
@@ -685,7 +685,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "น้ำที่หกไปแล้วกู้คืนไม่ได้ แต่คุณจะทำอย่างไรกับน้ำที่ยังเหลืออยู่?",
-    "image_path": "../minor/SAMUDAYA/5_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/5_of_SAMUDAYA.webp"
   },
   {
     "header": "6 of Samudaya : สัญญาเก่า",
@@ -701,7 +701,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "อดีตเป็นเพียงความทรงจำที่สวยงาม หรือเป็นสิ่งที่ฉุดรั้งปัจจุบันของคุณ?",
-    "image_path": "../minor/SAMUDAYA/6_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/6_of_SAMUDAYA.webp"
   },
   {
     "header": "7 of Samudaya : วิมานในอากาศ",
@@ -718,7 +718,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งที่คุณกำลังไล่ตาม เป็นความฝันที่เป็นจริงได้ หรือเป็นเพียงภาพลวงตา?",
-    "image_path": "../minor/SAMUDAYA/7_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/7_of_SAMUDAYA.webp"
   },
   {
     "header": "8 of Samudaya : การละทิ้ง",
@@ -735,7 +735,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "อะไรคือสิ่งที่สำคัญจริงๆ จนคุณยอมทิ้งทุกอย่างเพื่อไปหามัน?",
-    "image_path": "../minor/SAMUDAYA/8_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/8_of_SAMUDAYA.webp"
   },
   {
     "header": "9 of Samudaya : มานะทิฏฐิ",
@@ -752,7 +752,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขของคุณขึ้นอยู่กับการมี หรือการเป็น?",
-    "image_path": "../minor/SAMUDAYA/9_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/9_of_SAMUDAYA.webp"
   },
   {
     "header": "10 of Samudaya : วิมาน",
@@ -768,7 +768,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "วิมานที่แท้จริง... ไม่ใช่ตึกราม แต่คือใจที่เป็นสุข",
-    "image_path": "../minor/SAMUDAYA/10_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/10_of_SAMUDAYA.webp"
   },
   {
     "header": "Page of Samudaya : นางวิสาขา",
@@ -784,7 +784,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความเมตตา... คือดอกบัวที่บานจากใจ",
-    "image_path": "../minor/SAMUDAYA/Page_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/Page_of_SAMUDAYA.webp"
   },
   {
     "header": "Knight of Samudaya : พระนันทะ",
@@ -800,7 +800,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความงามที่แท้จริง... ไม่เคยซีดจางตามกาลเวลา",
-    "image_path": "../minor/SAMUDAYA/Knight_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/Knight_of_SAMUDAYA.webp"
   },
   {
     "header": "Queen of Samudaya : พระนางพิมพาเถรี",
@@ -815,7 +815,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความรักที่ยิ่งใหญ่ที่สุด... คือการปล่อยให้เขาได้เติบโตในทางของเขา",
-    "image_path": "../minor/SAMUDAYA/Queen_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/Queen_of_SAMUDAYA.webp"
   },
   {
     "header": "King of Samudaya : พระอานนท์",
@@ -830,7 +830,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "การรับใช้ผู้อื่นด้วยหัวใจ... คือเกียรติยศที่สูงส่งที่สุด",
-    "image_path": "../minor/SAMUDAYA/King_of_SAMUDAYA.jpg"
+    "image_path": "/assets/minor/SAMUDAYA/King_of_SAMUDAYA.webp"
   },
   {
     "header": "Ace of Nirodha : นิโรธ (ความดับทุกข์)",
@@ -846,7 +846,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่อใจหยุดนิ่ง... คุณมองเห็นอะไรในความว่างนั้น?",
-    "image_path": "../minor/NIRODHA/Ace_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/Ace_of_NIRODHA.webp"
   },
   {
     "header": "2 of Nirodha : การทรงอารมณ์",
@@ -862,7 +862,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ท่ามกลางกระแสโลกที่เชี่ยวกราก... คุณยังยืนหยัดอยู่ในจุดที่สงบเงียบที่สุดได้หรือไม่?",
-    "image_path": "../minor/NIRODHA/2_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/2_of_NIRODHA.webp"
   },
   {
     "header": "3 of Nirodha : สัมมาทิฏฐิ",
@@ -878,7 +878,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "รากฐานที่คุณกำลังสร้างในวันนี้... จะนำไปสู่ความสงบที่ยั่งยืนได้จริงหรือไม่?",
-    "image_path": "../minor/NIRODHA/3_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/3_of_NIRODHA.webp"
   },
   {
     "header": "4 of Nirodha : สัมมาสมาธิ",
@@ -894,7 +894,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ในความเงียบงันของจิตใจ... คุณพร้อมที่จะฟังความจริงที่ยิ่งใหญ่ที่สุดแล้วหรือยัง?",
-    "image_path": "../minor/NIRODHA/4_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/4_of_NIRODHA.webp"
   },
   {
     "header": "5 of Nirodha : ความขัดสน (ตบะ)",
@@ -909,7 +909,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ในวันที่ร่างกายหรือทรัพย์สินขาดแคลน... จิตใจคุณยังสมบูรณ์ดีอยู่ไหม?",
-    "image_path": "../minor/NIRODHA/5_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/5_of_NIRODHA.webp"
   },
   {
     "header": "6 of Nirodha : ทานบารมี",
@@ -925,7 +925,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ยิ่งให้... ยิ่งได้รับ",
-    "image_path": "../minor/NIRODHA/6_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/6_of_NIRODHA.webp"
   },
   {
     "header": "7 of Nirodha : กฎแห่งกรรม",
@@ -941,7 +941,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ผลไม้ที่สุกงอมตามธรรมชาติ... ย่อมหอมหวานกว่าผลไม้บ่มแก๊สเสมอ",
-    "image_path": "../minor/NIRODHA/7_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/7_of_NIRODHA.webp"
   },
   {
     "header": "8 of Nirodha : สัมมาอาชีวะ",
@@ -957,7 +957,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่องานคือชีวิต... จงทำให้มันเป็นศิลปะที่งดงามที่สุด",
-    "image_path": "../minor/NIRODHA/8_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/8_of_NIRODHA.webp"
   },
   {
     "header": "9 of Nirodha : วิเวกสุข",
@@ -973,7 +973,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขที่ยิ่งใหญ่... คือการไม่ต้องการอะไรเพิ่มอีกแล้ว",
-    "image_path": "../minor/NIRODHA/9_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/9_of_NIRODHA.webp"
   },
   {
     "header": "10 of Nirodha : อริยทรัพย์",
@@ -989,7 +989,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ทรัพย์ภายนอกทิ้งไว้เมื่อตาย... ทรัพย์ภายในติดตัวไปตลอดกาล",
-    "image_path": "../minor/NIRODHA/10_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/10_of_NIRODHA.webp"
   },
   {
     "header": "Page of Nirodha : อนาถบิณฑิกเศรษฐี",
@@ -1005,7 +1005,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสำเร็จที่ยิ่งใหญ่... เริ่มต้นจากการลงมือทำสิ่งเล็กๆ ในวันนี้",
-    "image_path": "../minor/NIRODHA/Page_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/Page_of_NIRODHA.webp"
   },
   {
     "header": "Knight of Nirodha : พระอนุรุทธะ",
@@ -1021,7 +1021,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ตาเนื้ออาจพร่ามัว... แต่ตาปัญญาต้องแจ่มชัดเสมอ",
-    "image_path": "../minor/NIRODHA/Knight_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/Knight_of_NIRODHA.webp"
   },
   {
     "header": "Queen of Nirodha : พระนางอัมพปาลีเถรี",
@@ -1037,7 +1037,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความงามภายนอกร่วงโรยตามกาลเวลา... แต่ความงามภายในคงอยู่ตลอดกาล",
-    "image_path": "../minor/NIRODHA/Queen_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/Queen_of_NIRODHA.webp"
   },
   {
     "header": "King of Nirodha : พระสีวลีเถระ",
@@ -1053,7 +1053,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่อคุณเป็นผู้ให้ที่ยิ่งใหญ่... โลกจะตอบแทนคุณอย่างมหาศาล",
-    "image_path": "../minor/NIRODHA/King_of_NIRODHA.jpg"
+    "image_path": "/assets/minor/NIRODHA/King_of_NIRODHA.webp"
   },
   {
     "header": "Ace of Magga : สัมมาทิฏฐิ",
@@ -1068,7 +1068,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เริ่มต้นด้วยปัญญา... ปัญหาจักกลายเป็นปัญญา",
-    "image_path": "../minor/MAGGA/Ace_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/Ace_of_MAGGA.webp"
   },
   {
     "header": "2 of Magga : สัมมาสังกัปปะ",
@@ -1083,7 +1083,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "เป้าหมายที่ชัดเจน... คือเข็มทิศของชีวิต",
-    "image_path": "../minor/MAGGA/2_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/2_of_MAGGA.webp"
   },
   {
     "header": "3 of Magga : การเผยแผ่",
@@ -1098,7 +1098,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คำพูดที่ดีสร้างมิตร... คำพูดที่เป็นพิษสร้างศัตรู",
-    "image_path": "../minor/MAGGA/3_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/3_of_MAGGA.webp"
   },
   {
     "header": "4 of Magga : สัมมากัมมันตะ (ความสามัคคี)",
@@ -1113,7 +1113,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสุขที่แท้จริง... คือการได้แบ่งปันความสุขนั้นกับผู้อื่น",
-    "image_path": "../minor/MAGGA/4_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/4_of_MAGGA.webp"
   },
   {
     "header": "5 of Magga : ความขัดแย้ง (นิวรณ์)",
@@ -1128,7 +1128,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ชนะคนอื่นได้โลก... ชนะตนเองได้ธรรม",
-    "image_path": "../minor/MAGGA/5_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/5_of_MAGGA.webp"
   },
   {
     "header": "6 of Magga : ชัยชนะ (ความเพียร)",
@@ -1143,7 +1143,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความสำเร็จมีไว้ให้ชื่นชม... ไม่ใช่ให้ยึดติด",
-    "image_path": "../minor/MAGGA/6_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/6_of_MAGGA.webp"
   },
   {
     "header": "7 of Magga : สัมมาสติ (การรักษา)",
@@ -1158,7 +1158,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ศัตรูที่น่ากลัวที่สุดไม่ใช่คนอื่น... แต่คือใจที่ขาดสติ",
-    "image_path": "../minor/MAGGA/7_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/7_of_MAGGA.webp"
   },
   {
     "header": "8 of Magga : ญาณหยั่งรู้ (ความรวดเร็ว)",
@@ -1173,7 +1173,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความเร็วต้องมาพร้อมกับทิศทาง... มิฉะนั้นคือหายนะ",
-    "image_path": "../minor/MAGGA/8_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/8_of_MAGGA.webp"
   },
   {
     "header": "9 of Magga : ขันติบารมี",
@@ -1188,7 +1188,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "คนเก่งไม่ใช่คนที่ไม่เคยล้ม... แต่คือคนที่ลุกขึ้นมาได้ทุกครั้งที่ล้ม",
-    "image_path": "../minor/MAGGA/9_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/9_of_MAGGA.webp"
   },
   {
     "header": "10 of Magga : ขันธ์ 5 (ภาระ)",
@@ -1203,7 +1203,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "แบกหินไปตกนรก... วางลงก็ขึ้นสวรรค์",
-    "image_path": "../minor/MAGGA/10_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/10_of_MAGGA.webp"
   },
   {
     "header": "Page of Magga : จิตตคฤหบดี",
@@ -1219,7 +1219,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความรู้เสมือนดาบ... ถ้าใช้ไม่เป็นจะบาดมือตัวเอง",
-    "image_path": "../minor/MAGGA/Page_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/Page_of_MAGGA.webp"
   },
   {
     "header": "Knight of Magga : พระมหาโมคคัลลานะ",
@@ -1235,7 +1235,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "พลังที่ปราศจากการควบคุม... คือหายนะ",
-    "image_path": "../minor/MAGGA/Knight_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/Knight_of_MAGGA.webp"
   },
   {
     "header": "Queen of Magga : พระนางเขมาเถรี",
@@ -1251,7 +1251,7 @@
     "upright": [],
     "reversed": [],
     "prompt": "ผู้หญิงสวยมีวันแก่... แต่ผู้หญิงฉลาดมีแต่จะยิ่งเด่นชัด",
-    "image_path": "../minor/MAGGA/Queen_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/Queen_of_MAGGA.webp"
   },
   {
     "header": "King of Magga : พระสารีบุตร",
@@ -1267,6 +1267,6 @@
     "upright": [],
     "reversed": [],
     "prompt": "ผู้นำที่ดีคือผู้ที่สร้างผู้นำคนต่อไป",
-    "image_path": "../minor/MAGGA/King_of_MAGGA.jpg"
+    "image_path": "/assets/minor/MAGGA/King_of_MAGGA.webp"
   }
 ]
