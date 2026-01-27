@@ -519,7 +519,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "ความจริงเรื่องใดที่คุณพยายามหนี... แต่หนีไม่พ้น?",
-    "image_path": "/assets/minor/DUKKHA/Ace_of_DUKKHA.webp"
+    "image_path": "/assets/minor/DUKKHA/Ace_of_DUKKHA.webp",
+    "keywords_en": "Birth of Suffering, Beginning of Problems, Harsh Truth",
+    "tagline_en": "The first chapter of the cycle... the moment life begins, so does the bond of suffering",
+    "main_image_desc_en": "A strong Thai sword stands firmly planted into cracked earth, marking the 'birth' amidst the void.",
+    "secondary_image_desc_en": "Thorny vines coil around the sword from base to hilt, symbolizing the bonds of karma and defilements that follow immediately upon birth. The sky above is dark and overcast.",
+    "dharma_essence_en": "This card represents the first Noble Truth: 'Dukkha'. It emphasizes 'jāti-pi dukkhā' (birth itself is suffering). The sword planted in the ground is like consciousness descending into existence. Birth brings not just life, but aging, sickness, death, and obstacles.",
+    "prompt_en": "What truth are you trying to escape from... but cannot?"
   },
   {
     "header": "2 of Dukkha : วิจิกิจฉา",
@@ -827,7 +833,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "สิ่งที่คุณปรารถนาที่สุดในตอนนี้... นำมาซึ่งความสุขหรือความทุกข์?",
-    "image_path": "/assets/minor/SAMUDAYA/Ace_of_SAMUDAYA.webp"
+    "image_path": "/assets/minor/SAMUDAYA/Ace_of_SAMUDAYA.webp",
+    "keywords_en": "Root of Craving, Origin of Desire, Seed of Attachment",
+    "tagline_en": "The spark that ignites the cycle... where wanting becomes suffering",
+    "main_image_desc_en": "A flame-tipped wand emerges from dark waters, representing the arising of craving from the depths of consciousness.",
+    "secondary_image_desc_en": "Smoke rises and takes the shape of various objects of desire, showing how craving multiplies and spreads.",
+    "dharma_essence_en": "This represents Samudaya, the Second Noble Truth—the origin of suffering through taṇhā (craving). The Ace shows the very first spark of desire that sets the whole cycle in motion.",
+    "prompt_en": "What desire is currently driving your actions?"
   },
   {
     "header": "2 of Samudaya : ความผูกพัน",
@@ -1134,7 +1146,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "เมื่อใจหยุดนิ่ง... คุณมองเห็นอะไรในความว่างนั้น?",
-    "image_path": "/assets/minor/NIRODHA/Ace_of_NIRODHA.webp"
+    "image_path": "/assets/minor/NIRODHA/Ace_of_NIRODHA.webp",
+    "keywords_en": "Possibility of Peace, Glimpse of Liberation, Seed of Cessation",
+    "tagline_en": "The first taste of freedom... a glimpse of what lies beyond suffering",
+    "main_image_desc_en": "A golden chalice overflows with pure water, representing the possibility of peace and the quenching of craving.",
+    "secondary_image_desc_en": "Lotus petals float on the water's surface, symbolizing purity arising from the cessation of mental impurities.",
+    "dharma_essence_en": "This represents Nirodha, the Third Noble Truth—the cessation of suffering. The Ace shows the first moment of understanding that liberation is possible.",
+    "prompt_en": "Where have you experienced a moment of true peace?"
   },
   {
     "header": "2 of Nirodha : การทรงอารมณ์",
@@ -1434,7 +1452,13 @@
     "upright": [],
     "reversed": [],
     "prompt": "เริ่มต้นด้วยปัญญา... ปัญหาจักกลายเป็นปัญญา",
-    "image_path": "/assets/minor/MAGGA/Ace_of_MAGGA.webp"
+    "image_path": "/assets/minor/MAGGA/Ace_of_MAGGA.webp",
+    "keywords_en": "First Step on the Path, Beginning of Practice, Foundation of Wisdom",
+    "tagline_en": "The journey of a thousand miles... begins with a single mindful step",
+    "main_image_desc_en": "A golden coin inscribed with the Dharma wheel represents the foundation of practice and the first step on the noble path.",
+    "secondary_image_desc_en": "A clear path stretches into the distance, lit by the glow of the coin, showing the way forward.",
+    "dharma_essence_en": "This represents Magga, the Fourth Noble Truth—the path leading to the cessation of suffering. The Ace shows the first commitment to walking the Eightfold Path.",
+    "prompt_en": "What first step are you ready to take on your path?"
   },
   {
     "header": "2 of Magga : สัมมาสังกัปปะ",
