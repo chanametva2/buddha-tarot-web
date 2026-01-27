@@ -41,13 +41,34 @@ export const SpreadPreview = ({ layout, count }) => {
                 );
 
             case 'circle':
+                // Dynamic circle layout
+                const circleCount = count || 4;
+                const radius = 35; // Radius of the circle
+                // Start from -90 degrees (Top)
+                const startAngle = -90 * (Math.PI / 180);
+                const angleStep = (2 * Math.PI) / circleCount;
+
                 return (
-                    // 4 cards in a ring
                     <g transform="translate(50, 50)">
-                        <rect x="-10" y="-40" width="20" height="30" className={cardClass} /> {/* Top */}
-                        <rect x="20" y="-15" width="20" height="30" className={cardClass} />  {/* Right */}
-                        <rect x="-10" y="10" width="20" height="30" className={cardClass} />  {/* Bottom */}
-                        <rect x="-40" y="-15" width="20" height="30" className={cardClass} /> {/* Left */}
+                        {Array.from({ length: circleCount }).map((_, i) => {
+                            const angle = startAngle + (i * angleStep);
+                            const cx = radius * Math.cos(angle);
+                            const cy = radius * Math.sin(angle);
+                            // Rotate card to point outward or keep upright? 
+                            // Keeping them upright is simpler for preview.
+                            return (
+                                <rect
+                                    key={i}
+                                    x={cx - 5} // Center rect horizontally (width 10)
+                                    y={cy - 7.5} // Center rect vertically (height 15)
+                                    width="10"
+                                    height="15"
+                                    className={cardClass}
+                                // Optional: Add rotation if we want them to radiate
+                                // transform={`rotate(${(angle * 180 / Math.PI) + 90}, ${cx}, ${cy})`}
+                                />
+                            );
+                        })}
                     </g>
                 );
 
