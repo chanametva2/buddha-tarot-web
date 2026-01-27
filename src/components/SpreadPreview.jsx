@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const SpreadPreview = ({ layout }) => {
+export const SpreadPreview = ({ layout, count }) => {
     // Common styles
     const cardClass = "fill-white/20 stroke-gold-400 stroke-2";
 
@@ -19,12 +19,25 @@ export const SpreadPreview = ({ layout }) => {
                 );
 
             case 'linear':
+                // Dynamic linear layout based on count
+                const numCards = count || 3;
+                const width = 20; // Card width
+                const gap = 5;    // Gap between cards
+                const totalWidth = (numCards * width) + ((numCards - 1) * gap);
+                const startX = -(totalWidth / 2) + (width / 2); // Center items
+
                 return (
-                    // 3 cards in a row
                     <g transform="translate(50, 50)">
-                        <rect x="-35" y="-20" width="20" height="30" className={cardClass} />
-                        <rect x="-10" y="-20" width="20" height="30" className={cardClass} />
-                        <rect x="15" y="-20" width="20" height="30" className={cardClass} />
+                        {Array.from({ length: numCards }).map((_, i) => (
+                            <rect
+                                key={i}
+                                x={startX + (i * (width + gap)) - (width / 2)}
+                                y="-15"
+                                width={width}
+                                height="30"
+                                className={cardClass}
+                            />
+                        ))}
                     </g>
                 );
 

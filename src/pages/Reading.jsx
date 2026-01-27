@@ -143,7 +143,7 @@ export default function Reading() {
                                 >
                                     {/* SVG Preview Background */}
                                     <div className="absolute top-0 right-0 w-32 h-32 opacity-10 group-hover:opacity-20 transition-opacity pointer-events-none -mr-8 -mt-8">
-                                        <SpreadPreview layout={spread.layout} />
+                                        <SpreadPreview layout={spread.layout} count={spread.cardCount} />
                                     </div>
 
                                     <div className="flex justify-between items-start mb-4 z-10">
@@ -157,7 +157,7 @@ export default function Reading() {
 
                                     {/* Main Preview Container */}
                                     <div className="w-full h-24 mb-6 bg-black/20 rounded-lg p-2 border border-white/5 group-hover:border-gold-500/20 transition-colors">
-                                        <SpreadPreview layout={spread.layout} />
+                                        <SpreadPreview layout={spread.layout} count={spread.cardCount} />
                                     </div>
 
                                     <p className="text-white/60 text-sm mb-6 min-h-[3rem] z-10">
