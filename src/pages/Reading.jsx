@@ -441,6 +441,25 @@ export default function Reading() {
                     )}
                 </AnimatePresence>
 
+                {/* COPY TOAST NOTIFICATION */}
+                <AnimatePresence>
+                    {isCopied && (
+                        <motion.div
+                            initial={{ opacity: 0, y: 50 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            exit={{ opacity: 0, y: 50 }}
+                            className="fixed bottom-8 left-1/2 -translate-x-1/2 z-[150] bg-gold-500 text-indigo-950 px-6 py-3 rounded-full shadow-2xl flex items-center gap-3 font-medium border border-white/20"
+                        >
+                            <Check className="w-5 h-5" />
+                            <span>
+                                {language === 'th'
+                                    ? 'คัดลอกเสร็จแล้ว กรุณานำไปวางเพื่อถาม AI ที่ท่านต้องการ'
+                                    : 'Copied! Please paste to ask your AI.'}
+                            </span>
+                        </motion.div>
+                    )}
+                </AnimatePresence>
+
             </div>
         </Layout>
     );
