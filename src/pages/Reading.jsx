@@ -421,8 +421,8 @@ export default function Reading() {
 
                                             <div className="mt-4 space-y-2">
                                                 <p className="text-gold-100 font-serif text-center text-lg">{content.name}</p>
-                                                <p className="text-white/60 text-sm leading-relaxed border-t border-white/5 pt-2 mt-2">
-                                                    {content.tagline}
+                                                <p className="text-white/60 text-sm leading-relaxed border-t border-white/5 pt-2 mt-2 italic">
+                                                    "{content.prompt}"
                                                 </p>
                                             </div>
                                         </motion.div>
