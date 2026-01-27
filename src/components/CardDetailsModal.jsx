@@ -21,6 +21,20 @@ export const CardDetailsModal = ({ card, onClose }) => {
         };
     };
 
+    const getImageUrl = (path) => {
+        if (!path) return '';
+
+        // Handle absolute paths (e.g., from updated cards.json)
+        if (path.startsWith('/assets/')) {
+            // Remove leading slash since BASE_URL includes trailing slash
+            return `${import.meta.env.BASE_URL}${path.slice(1)}`;
+        }
+
+        // Handle legacy relative paths (backward compatibility)
+        const cleanPath = path.replace('../', '');
+        return `${import.meta.env.BASE_URL}assets/${cleanPath}`;
+    };
+
     const content = getContent(card);
 
     return (
@@ -45,9 +59,7 @@ export const CardDetailsModal = ({ card, onClose }) => {
                     <div className="aspect-[2/3] w-full max-w-sm rounded-lg overflow-hidden border border-white/10 shadow-lg">
                         {card.image_path ? (
                             <img
-                                src={card.image_path.startsWith('/assets/')
-                                    ? `${import.meta.env.BASE_URL}${card.image_path.slice(1)}`
-                                    : `${import.meta.env.BASE_URL}assets/${card.image_path.replace('../', '')}`}
+                                src={getImageUrl(card.image_path)}
                                 className="w-full h-full object-cover"
                                 alt={content.name}
                             />
