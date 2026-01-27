@@ -37,6 +37,15 @@ export const CardDetailsModal = ({ card, onClose }) => {
 
     const content = getContent(card);
 
+    // Close on Escape key
+    React.useEffect(() => {
+        const handleEsc = (e) => {
+            if (e.key === 'Escape') onClose();
+        };
+        window.addEventListener('keydown', handleEsc);
+        return () => window.removeEventListener('keydown', handleEsc);
+    }, [onClose]);
+
     return (
         <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md" onClick={onClose}>
             <motion.div
@@ -46,10 +55,10 @@ export const CardDetailsModal = ({ card, onClose }) => {
                 className="bg-indigo-950 border border-gold-500/30 rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden flex flex-col md:flex-row shadow-2xl relative"
                 onClick={e => e.stopPropagation()}
             >
-                {/* Close Button Mobile */}
+                {/* Close Button - Visible on all screens */}
                 <button
                     onClick={onClose}
-                    className="absolute top-4 right-4 z-50 md:hidden w-8 h-8 flex items-center justify-center rounded-full bg-black/40 text-white/60 hover:bg-black/60"
+                    className="absolute top-4 right-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-black/40 text-white/60 hover:bg-black/60 transition-colors"
                 >
                     ✕
                 </button>
