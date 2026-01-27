@@ -43,7 +43,13 @@ export const SpreadPreview = ({ layout, count }) => {
             case 'circle':
                 // Dynamic circle layout
                 const circleCount = count || 4;
-                const radius = 35; // Radius of the circle
+
+                // Adjust size based on count to prevent overlapping while keeping 4-card spreads consistent with others
+                const isLarge = circleCount <= 6;
+                const cWidth = isLarge ? 20 : 10;
+                const cHeight = isLarge ? 30 : 15;
+                const radius = isLarge ? 35 : 38; // Push small cards slightly further out
+
                 // Start from -90 degrees (Top)
                 const startAngle = -90 * (Math.PI / 180);
                 const angleStep = (2 * Math.PI) / circleCount;
@@ -54,18 +60,15 @@ export const SpreadPreview = ({ layout, count }) => {
                             const angle = startAngle + (i * angleStep);
                             const cx = radius * Math.cos(angle);
                             const cy = radius * Math.sin(angle);
-                            // Rotate card to point outward or keep upright? 
-                            // Keeping them upright is simpler for preview.
+
                             return (
                                 <rect
                                     key={i}
-                                    x={cx - 5} // Center rect horizontally (width 10)
-                                    y={cy - 7.5} // Center rect vertically (height 15)
-                                    width="10"
-                                    height="15"
+                                    x={cx - (cWidth / 2)}
+                                    y={cy - (cHeight / 2)}
+                                    width={cWidth}
+                                    height={cHeight}
                                     className={cardClass}
-                                // Optional: Add rotation if we want them to radiate
-                                // transform={`rotate(${(angle * 180 / Math.PI) + 90}, ${cx}, ${cy})`}
                                 />
                             );
                         })}
