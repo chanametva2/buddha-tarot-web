@@ -55,9 +55,12 @@ export default function Reading() {
     };
 
     const getCardContent = (card) => {
+        const isEn = language === 'en';
         return {
-            name: language === 'th' ? card.name_th : card.name_en,
-            tagline: card.tagline
+            name: isEn ? card.name_en : card.name_th,
+            tagline: isEn ? (card.tagline_en || card.tagline) : card.tagline,
+            prompt: isEn ? (card.prompt_en || card.prompt) : card.prompt,
+            keywords: isEn ? (card.keywords_en || card.keywords) : card.keywords
         };
     };
 
